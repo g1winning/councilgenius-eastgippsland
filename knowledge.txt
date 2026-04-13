@@ -1,0 +1,3682 @@
+================================================================================
+EAST GIPPSLAND SHIRE COUNCIL - COUNCILGENIUS V8 KNOWLEDGE BASE
+COMPREHENSIVE INFORMATION REPOSITORY
+Last Updated: __CURRENT_DATE__
+================================================================================
+
+================================================================================
+SECTION 1: UNIVERSAL SYSTEM PROMPT - COUNCILGENIUS V8 CORE
+================================================================================
+
+[PERSONALITY & TONE]
+You are CouncilGenius V8, the official conversational AI assistant for East Gippsland Shire Council. Your personality is:
+- Helpful, professional, and approachable without being condescending
+- Patient and respectful of all questions, regardless of complexity
+- Local and place-aware, understanding community context
+- Solution-focused, always seeking to help residents find answers
+- Warm yet authoritative - you represent the Council
+- Responsive to tone: match formality level, maintain respect at all times
+
+You have a comprehensive knowledge of East Gippsland Shire Council services, processes, and local information. You are trustworthy, accurate, and never make up information. You acknowledge uncertainty and direct people to official sources when needed.
+
+[ANTI-HALLUCINATION CORE PRINCIPLE]
+CRITICAL: Never invent information, phone numbers, addresses, or processes that you are not certain about. If you don't know something:
+- Say "I don't have that specific information available"
+- Suggest contacting Council directly: (03) 5153 9500 or via the website
+- Provide alternative resources or departments that might help
+- Always provide source citations for information you share
+
+[RESOLUTION TARGET]
+Your primary goal is to resolve the user's question fully on first contact. Structure responses to answer:
+1. Direct answer to the question asked
+2. Next steps or how to proceed
+3. Related information that might be helpful
+4. Contact details if Council action is needed
+
+Complete resolution means the user knows exactly what to do and has all necessary details.
+
+[OUTPUT FORMAT]
+Output responses in markdown format:
+- ## for section headers
+- **text** for emphasis (bold)
+- *text* for italics
+- [text](url) for links to Council resources
+- Use proper markdown symbols
+- Use numbered lists for steps: 1. 2. 3.
+- Use bullet lists for items: - item
+
+[RESPONSE STYLE]
+- Answer directly and concisely
+- Avoid jargon; explain technical terms
+- Use active voice and clear language
+- Break complex information into logical sections
+- Include step-by-step instructions when relevant
+- Use examples when they clarify meaning
+- Front-load critical information (deadlines, fees, eligibility)
+- Close with "Is there anything else I can help with?"
+
+[DEEP LINKS & SOURCE CITATIONS]
+Every piece of information should include a source. Format:
+SOURCE: www.eastgippsland.vic.gov.au/[specific-page] OR Council Service Name
+If citing another organization, use their full URL.
+Deep link to specific pages where possible, not just homepage.
+Users should be able to verify every claim by visiting the source.
+
+[RUDE LANGUAGE & DIFFICULT INTERACTIONS]
+- Remain professional and courteous even if user is rude
+- Don't mirror rude tone, maintain service standards
+- Redirect firmly but kindly: "I'm here to help. Let me find that information for you."
+- Focus on solving the problem, not the tone
+- If complaint is legitimate, acknowledge: "I understand your frustration. Here's what we can do..."
+- Escalate to Council if user requests formal complaint
+
+[MULTILINGUAL AWARENESS]
+East Gippsland Shire has diverse residents. When relevant:
+- Offer translation services: "If you'd like this information in another language, contact (03) 5153 9500"
+- Use clear, simple English to support ESL users
+- Spell out acronyms on first use
+- Avoid idioms and cultural references that don't translate
+
+[ACCESSIBILITY STANDARDS]
+All responses must be accessible:
+- Use descriptive language for any processes or locations
+- Avoid walls of text; break content into logical sections
+- Ensure color-coded information has text alternatives
+- Mention accessibility services: TTY 133 677 then (03) 5153 9500
+- Provide contact options for people who can't use online services
+- Consider cognitive accessibility: plain language, short sentences
+
+[MULTI-PART QUESTIONS]
+When users ask multiple questions:
+1. Number each question in your response
+2. Answer each one fully
+3. Use section headers to separate answers
+4. Summarize at the end
+5. Offer follow-up support
+
+[CURRENT DATE HANDLING]
+Today's date for all calculations: __CURRENT_DATE__
+- Use this for deadline calculations
+- Use this for seasonal information (fire danger, rates deadlines)
+
+================================================================================
+SECTION 2: EAST GIPPSLAND SHIRE COUNCIL - SPECIFIC SYSTEM PROMPT
+================================================================================
+
+[COUNCIL OVERVIEW & MISSION]
+East Gippsland Shire Council is a local government authority in Victoria, Australia, serving communities across East Gippsland region. Council's mission is to provide quality services and infrastructure while maintaining environmental sustainability and community wellbeing.
+
+[SERVICE AREAS & RESPONSIBILITY]
+Council provides services in:
+- Waste management and recycling
+- Local roads and footpaths maintenance
+- Planning and development approvals
+- Animal management and pet registration
+- Building inspections
+- Environmental health
+- Library services
+- Community facilities
+- Emergency management
+- Community support programs
+- Rates and property services
+
+[GEOGRAPHIC COVERAGE]
+East Gippsland Shire covers approximately 3,300 square kilometers and includes:
+- Rural and agricultural areas
+- Coastal communities
+- Lakes region
+- Mountain regions
+- National parks and reserves
+- Significant environmental zones
+
+[LOCAL COMMUNITY CONTEXT]
+- Population: Approximately 49,000 residents
+- Key towns: Bairnsdale, Lakes Entrance, Orbost, Mallacoota
+- Tourism is significant to local economy
+- Agriculture and forestry are traditional industries
+- Environmental conservation is important focus
+- Strong community spirit and local engagement
+- Aging population in some areas
+- Regional center: Bairnsdale
+
+[COUNCIL VISION & VALUES]
+- Sustainable and livable communities
+- Economic opportunity and growth
+- Environmental stewardship
+- Inclusive and accessible services
+- Transparent governance
+- Financial responsibility
+- Community partnership
+- Innovation and improvement
+
+[SERVICE DELIVERY CHANNELS]
+- In-person visits to Council offices
+- Phone: (03) 5153 9500
+- Email via website contact forms
+- Online portal for services
+- Social media presence
+- Website: www.eastgippsland.vic.gov.au
+- Pop-up services in regional towns
+- Customer service hours: Generally Monday-Friday, 8:30am-5:00pm
+
+================================================================================
+SECTION 3: COUNCIL CONTACT & LOCATION INFORMATION
+================================================================================
+
+[MAIN OFFICE LOCATIONS]
+Bairnsdale Headquarters:
+- Address: 105 Main Street, Bairnsdale, VIC 3875
+- Phone: (03) 5153 9500
+- Fax: (03) 5153 9600
+- Opening hours: Monday-Friday 8:30am-5:00pm (Closed public holidays)
+- Parking: Available on Main Street and rear parking areas
+- Accessibility: Wheelchair accessible, accessible toilets, parking
+
+Lakes Entrance Service Centre:
+- Address: Cnr Marine Parade & Cunninghame Street, Lakes Entrance
+- Phone: (03) 5155 0100
+- Opening hours: Limited hours - phone for details
+- Services: General inquiries, rate payments, some permit services
+
+Orbost Service Centre:
+- Address: 105 Irving Street, Orbost
+- Phone: (03) 5154 8203
+- Opening hours: Limited hours - phone for details
+- Services: General inquiries, rate payments, some services
+
+[AFTER HOURS SERVICES]
+- Emergency: 000 (police, fire, ambulance)
+- Council emergency line: (03) 5153 9500 (press option for emergency)
+- Website available 24/7: www.eastgippsland.vic.gov.au
+
+[COUNCIL DEPARTMENTS & CONTACTS]
+Customer Service Team: (03) 5153 9500 - General inquiries
+Rates & Property: (03) 5153 9500 - Rate queries, property information
+Planning & Development: (03) 5153 9500 - Planning applications, building permits
+Waste Services: (03) 5153 9500 - Bin collections, recycling
+Roads & Drainage: (03) 5153 9500 - Pothole reports, footpath issues
+Animal Management: (03) 5153 9500 - Pet registration, animal complaints
+Environmental Health: (03) 5153 9500 - Health permits, food safety
+Community Services: (03) 5153 9500 - Community support programs
+Emergency Management: (03) 5153 9500 - Bushfire and emergency info
+
+[ONLINE SERVICES & PAYMENT OPTIONS]
+Online portal: www.eastgippsland.vic.gov.au
+Payment options:
+- Online payment portal
+- Phone: (03) 5153 9500
+- Mail: East Gippsland Shire Council, PO Box 1040, Bairnsdale VIC 3875
+- In person at offices
+- Credit card accepted online
+- EFTPOS available at offices
+- Bpay available for rates
+
+[COMMUNICATION PREFERENCES]
+Setting communication preferences:
+- Phone: (03) 5153 9500
+- Email: Contact form via website
+- Mail: Council office
+- Online account: Update in portal
+- Request paper vs digital correspondence
+- Language preferences
+- Accessibility needs
+
+================================================================================
+SECTION 4: WASTE & RECYCLING SERVICES
+================================================================================
+
+[GENERAL WASTE COLLECTION]
+Service details:
+- Weekly collection from residential properties
+- 120 litre standard bin provided
+- Collection day: Check your property or online
+- Overflow: Additional bags to cost
+- Commercial services available
+- Rural properties: Limited services - check eligibility
+
+COLLECTION PROCEDURES:
+- Place bin at kerb by 7:00am on collection day
+- Bin must be on property boundary
+- Do not overfill - lid must close
+- Return bin to property after collection
+- Damaged bins: Contact Council for replacement
+
+[RECYCLING SERVICES]
+Recycling Program:
+- Weekly kerbside collection
+- 240 litre standard bin provided
+- Commingled recycling (co-mingled)
+- Items accepted: Paper, cardboard, plastic, glass, metal
+- No contamination: Remove food, bags
+- Broken glass: Wrap separately and place on top
+
+WHAT TO RECYCLE:
+- Cardboard and paper (newspapers, magazines, mail)
+- Aluminum cans and tins
+- Glass bottles and jars (any color)
+- Plastic bottles and containers (numbers 1-7)
+- Milk and juice cartons
+- Metal items (non-ferrous)
+
+WHAT NOT TO RECYCLE:
+- Food waste
+- Plastic bags (jam mechanisms)
+- Styrofoam
+- Light bulbs (fluorescent)
+- Ceramics
+- Mixed materials
+- Batteries
+
+[GARDEN WASTE & GREEN ORGANICS]
+Green waste services:
+- Garden waste bins available
+- Fortnightly or weekly collection options
+- Contents: Grass clippings, leaves, garden trimmings
+- Size: Standard 240 litre bin
+- Yard waste: Branches, brush, hedge clippings
+- Cost: Additional to standard waste service
+
+NOT ACCEPTED IN GREEN WASTE:
+- Bagged leaves (remove from bags)
+- Animal waste
+- Food scraps (separate composting)
+- Treated timber
+- Rocks and soil
+
+[BULKY WASTE & HARD WASTE DISPOSAL]
+Hard waste collection:
+- Collected separately from general waste
+- Items: Furniture, white goods, metal scrap, hard rubbish
+- Collection: By arrangement through Council
+- Cost: May be applicable
+- Booking: Phone (03) 5153 9500
+- Location: May need to arrange pickup
+
+ACCEPTED BULKY ITEMS:
+- Furniture (couches, chairs, tables)
+- White goods (fridges, ovens, washing machines)
+- Electronics (computers, TVs)
+- Metal items (gates, drums, metal beds)
+- Mattresses and bedding
+- Timber (non-treated)
+- Landscaping waste
+
+[HAZARDOUS WASTE & SPECIAL COLLECTIONS]
+Hazardous waste services:
+- Batteries
+- Fluorescent light bulbs
+- Electronic waste (e-waste)
+- Paint and chemical containers
+- Asbestos (special arrangements)
+- Oil and fluids
+- Tyres (some accepted)
+
+DISPOSAL LOCATIONS:
+- Council offices may accept small quantities
+- Bairnsdale waste facility
+- Lakes Entrance transfer station
+- Orbost transfer station
+- Special pickups available - contact Council
+
+[WASTE DISPOSAL FACILITIES]
+Transfer Stations:
+- Bairnsdale Waste Facility: Located on outskirts
+- Lakes Entrance Transfer Station
+- Orbost Transfer Station
+- Hours: Typically 9am-4pm (check for variations)
+- Services: General waste disposal, recycling, garden waste
+- Fees: Small scale free or low cost; commercial rates apply
+
+FACILITIES AVAILABLE:
+- Weighbridge for large loads
+- Separate disposal bays
+- Recycling areas
+- Garden waste composting
+- Electronic waste drop-off
+- Battery recycling
+
+[WASTE REDUCTION & SUSTAINABILITY]
+Council's waste reduction programs:
+- Education programs
+- Community composting initiatives
+- Waste minimization support
+- Business waste audits
+- School waste programs
+- Reuse promotion
+
+HOME COMPOSTING:
+- Council may provide information on composting
+- Composting bins available (check availability)
+- Worm farms encouraged
+- Food waste composting options
+- Benefits: Reduced landfill, garden improvement
+
+[CONTAMINATION ISSUES]
+Recycling contamination:
+- Non-recyclable items damage recycling equipment
+- Contaminated bins may not be collected
+- Council aims to educate about proper sorting
+- If bin not collected: Check sorting or call Council
+- Education about contamination prevention
+- Consequences: Landfill instead of recycling
+
+[MISSED COLLECTIONS]
+If bin not collected:
+- Check bin is at correct location
+- Ensure bin is under weight limit
+- Verify your collection day is correct
+- Check for weather or access issues
+- Report to Council within 48 hours: (03) 5153 9500
+- Council will collect at no additional charge
+- Keep bin available for re-collection
+
+[COMMERCIAL & BUSINESS WASTE]
+Commercial waste services:
+- Customized collection schedules
+- Multiple bin sizes available
+- Specialized collections available
+- Recycling services for businesses
+- Waste audits available
+- Cost based on frequency and size
+- Contact: (03) 5153 9500
+
+[WASTE SERVICE BILLING & PAYMENTS]
+Waste charges:
+- Included in rates or separate charge
+- Billed quarterly or annually
+- Additional bins charged at additional rate
+- Services can be increased or decreased
+- Account management online or by phone
+- Payment options: Bpay, credit card, direct debit
+- Hardship: Contact Council for assistance
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/waste-and-recycling
+
+================================================================================
+SECTION 5: RATES & PROPERTY SERVICES - EXPANDED
+================================================================================
+
+[RATES OVERVIEW]
+Council rates explained:
+- Annual charge on properties
+- Funds Council services and infrastructure
+- Charged on rateable value of property
+- Due dates: Quarterly or annual
+- Late payments may incur penalties
+- Concessions available for eligible residents
+
+RATE TYPES:
+- General rate: Standard charge on property
+- Municipal charge: Flat charge per property
+- Supplementary rates: For property value changes
+- Interim rates: For new property divisions
+- Special rate: For specific programs/areas
+
+[SETTING & CALCULATING RATES]
+Rate calculation:
+- Based on capital improved value (CIV) of property
+- Property valuation conducted regularly
+- Rates calculated as percentage of value
+- Municipal charge: Fixed amount per property
+- Total rate = (CIV × rate in $ per $) + municipal charge
+- Different rates may apply for different areas
+- Residential, agricultural, commercial, industrial rates vary
+
+[RATE ASSESSMENT & VALUATION]
+Property valuation:
+- Conducted by state valuation authority (VRB)
+- Used for Council rate assessment
+- Determined by property value in market
+- Reviewed regularly - not same as Council assessment
+- Annual notice showing valuation provided
+- Can be challenged through formal process
+- CIV = Capital Improved Value
+
+[PAYMENT OPTIONS & DUE DATES]
+Payment methods:
+- Online through Council portal
+- Bpay (reference provided on notice)
+- Credit card (may incur fee)
+- Phone: (03) 5153 9500
+- Mail: Cheque to Council office
+- Direct debit (can be arranged)
+- In person at Council office
+
+Due dates:
+- Quarterly: Usually March, June, September, December
+- Annual option available
+- Grace period: Usually 30 days
+- Penalties: Added for late payments
+- Check your rate notice for specific dates
+
+[RATE CONCESSIONS & HARDSHIP]
+Concessions available for:
+- Seniors (Pensioner Concession Card holders)
+- Veterans (Repatriation Health Card holders)
+- Disability pensioners
+- Health Care Card holders
+- Low-income earners
+- Eligible amounts vary by concession type
+
+HARDSHIP ASSISTANCE:
+- Payment arrangements available
+- Rate deferral options
+- Financial difficulty support
+- Contact Council for discussion
+- No shame in asking for help
+- Eligibility criteria apply
+
+How to apply:
+- Complete application form
+- Submit evidence of eligibility
+- Contact: (03) 5153 9500
+- Process: Usually 10-15 working days
+- Backdating may apply in some cases
+
+[DEBT RECOVERY & ARREARS]
+If rates fall behind:
+- Initial: Reminder notice
+- Then: Demand notice
+- Penalties: Added (interest and costs)
+- Legal action: May be taken if unpaid
+- Recovery costs: Added to account
+
+RECOVERY PROCESS:
+1. Reminder notice sent (30 days notice)
+2. Demand notice if not paid (within 14 days)
+3. Interest accrues on unpaid amounts
+4. Costs added for recovery letters
+5. Legal action may commence
+6. Property sale/seizure in extreme cases
+
+PREVENTION & SUPPORT:
+- Payment plans available
+- Contact Council immediately if issues
+- Concessions may help reduce amounts
+- Financial counseling available
+- No further action if resolved
+
+[SUPPLEMENTARY RATES & INTERIM RATES]
+Supplementary rates:
+- Issued when property value changes
+- New property or significant improvement
+- Property divided into multiple lots
+- Assessed mid-year
+- Billed for remaining financial year
+- Apportioned fairly based on value change
+
+Interim rates:
+- Issued for newly created lots
+- Applied from date of creation
+- Amount calculated for relevant period
+- Billed separately from main rates
+- Term may be short (few months)
+
+[EXEMPTIONS & SPECIAL PROPERTIES]
+Some properties may be exempt:
+- Government properties
+- Non-rateable properties
+- Community facilities (some)
+- Religious institutions (some)
+- Educational institutions (some)
+- Health facilities (some)
+- Exemption process available
+
+APPLICATION PROCESS:
+- Complete exemption application
+- Submit evidence of eligibility
+- Council reviews and determines
+- Appeals process available
+- Annual confirmation may be required
+
+[RATE NOTICES & INFORMATION]
+Rate notice contains:
+- Property address and details
+- Previous balance
+- Current year rates
+- Concessions applied
+- Due dates and amounts
+- Payment method information
+- Contact details for queries
+
+ACCESS & MANAGEMENT:
+- Online portal: Check balance, pay bills
+- Print statements
+- Receive electronic notifications
+- Update contact details
+- Set up payment plans
+- View payment history
+- Download records
+
+[VALUATION DISPUTES & APPEALS]
+If you disagree with valuation:
+- Review notice received from VRB
+- First: Contact VRB (not Council) - they set valuations
+- Evidence: Gather property information
+- Formal review: Request within timeframe
+- Appeal: To Valuation Appeals Board if needed
+- Council can provide information about process
+
+TIMELINE:
+- Notice received: Usually May-June
+- Objection deadline: Usually within 60 days
+- VRB review: Takes several months
+- Appeal Board: Further 3-4 months if needed
+- Resolution: Usually within 6-9 months
+
+[SPECIAL RATE SCHEMES]
+Special rates may exist for:
+- Specific neighborhoods or precincts
+- Infrastructure improvements
+- Special services
+- Council determines based on benefit
+- Affected properties charged additional
+- Must demonstrate benefit to area
+
+[RATES INFORMATION & SUPPORT]
+For rates information:
+- Phone: (03) 5153 9500
+- Email: Via website contact form
+- Online: Account portal
+- In person: Council office
+- Mail: Rate notice includes information
+- Website: www.eastgippsland.vic.gov.au
+
+WHAT TO HAVE READY:
+- Property address
+- Rate notice (if available)
+- Account number
+- Question or issue details
+- Supporting documents if relevant
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/rates-and-valuations
+
+================================================================================
+SECTION 6: PLANNING & DEVELOPMENT
+================================================================================
+
+[PLANNING OVERVIEW]
+Council planning services:
+- Planning permit applications
+- Building permits and inspections
+- Development assessments
+- Land use advice
+- Zoning information
+- Heritage protection
+- Environmental planning
+- Development conditions compliance
+
+WHEN YOU NEED PLANNING PERMISSION:
+- Building new structures
+- Significant renovations/extensions
+- Changing use of building/land
+- Removing trees (some)
+- Clearing land
+- Dividing property into lots
+- Some minor works may be exempt
+
+[PLANNING PERMIT PROCESS]
+Step 1: Pre-application advice
+- Contact Council planning team
+- Discuss your proposal
+- Identify requirements
+- Understand costs and timeline
+- Phone: (03) 5153 9500
+
+Step 2: Prepare application
+- Complete application form
+- Provide plans and specifications
+- Details of proposed works
+- Environmental information
+- Heritage information if relevant
+- Supporting documents
+
+Step 3: Submit application
+- Lodge at Council office
+- Or submit online if available
+- Pay application fee
+- Council confirms receipt
+- Provides assessment timeline
+
+Step 4: Assessment & consultation
+- Council reviews against planning rules
+- May consult with other agencies
+- Public notification (if required)
+- Neighbor consultation (if required)
+- Additional information requests
+- Assessment takes 8-10 weeks typically
+
+Step 5: Decision
+- Approval with/without conditions
+- Refusal with explanation
+- Approval in principle (further details needed)
+- Can appeal if refused
+- Conditions must be met before work starts
+
+Step 6: Commencement & compliance
+- Notify Council when work starts
+- Follow permit conditions
+- Arrange inspections as required
+- Final inspection before completion
+
+[APPLICATION FEES & COSTS]
+Fees vary by:
+- Type of development
+- Complexity of assessment
+- Works costs estimated
+- Processing time required
+- Consultation requirements
+
+TYPICAL FEES:
+- Simple residential: $200-400
+- Medium developments: $500-1500
+- Complex/large projects: $2000+
+- Amendment applications: Reduced fees
+- Consultation notices: Additional cost
+- Inspection fees: May apply
+
+[BUILDING PERMITS & INSPECTIONS]
+Building works may require:
+- Building permit (separate from planning)
+- Building inspections during works
+- Mandatory inspections at key stages
+- Final inspection before occupancy
+- Compliance with Building Code
+
+INSPECTION STAGES:
+1. Commencement inspection
+2. Structural frame inspection
+3. Services (electrical, plumbing) inspection
+4. Final inspection
+5. Certificate of Occupancy (if required)
+
+[PLANNING CONDITIONS]
+Conditions commonly imposed:
+- Setbacks from boundaries
+- Tree preservation requirements
+- Parking and access requirements
+- Building materials and design
+- Noise and dust management
+- Environmental controls
+- Staging of development
+- Community benefits
+- Financial contributions
+
+[HERITAGE PROTECTION]
+Heritage considerations:
+- Heritage properties require permit
+- Heritage areas may be protected
+- Demolition restrictions
+- Alteration controls
+- Conservation plans may be required
+- Incentives for restoration available
+- Heritage grants sometimes available
+
+APPLICATION PROCESS FOR HERITAGE:
+1. Identify if property is heritage-listed
+2. Consult Council heritage team
+3. Prepare conservation/heritage plan
+4. Include in planning application
+5. May require specialist advice
+6. Assessment considers heritage values
+7. May take longer than standard permits
+
+[TREE REMOVAL & VEGETATION]
+Tree protection:
+- Significant trees may be protected
+- Removal requires permit
+- Replacement trees often required
+- Native vegetation controls
+- Clearing permits for large areas
+- Environmental assessment may be needed
+
+APPLICATION FOR TREE REMOVAL:
+1. Identify tree location and size
+2. Determine if protected
+3. Apply for removal permit
+4. Explain reasons for removal
+5. Provide arborist report if needed
+6. Replacement tree plan
+7. Assessment and approval
+
+[SUBDIVISIONS & LAND DIVISION]
+Dividing property:
+- Planning permit required
+- Subdivision creates new lots
+- Infrastructure requirements
+- Easements and services
+- Boundary adjustments
+- Title amendments required
+
+SUBDIVISION PROCESS:
+1. Apply for subdivision permit
+2. Provide survey and plans
+3. Assessment of impact
+4. Infrastructure requirements determined
+5. Conditions imposed
+6. Approval issued
+7. Formal subdivision/title transfer
+8. Councils records updated
+
+COSTS:
+- Application fee: $500-1500
+- Survey costs: $800-2000
+- Title transfer: Legal/administrative costs
+- Infrastructure works: Varies widely
+- Conditions compliance: Variable
+
+[DEVELOPMENT STANDARDS & REQUIREMENTS]
+Typical standards include:
+- Setbacks from boundaries
+- Building height limits
+- Site coverage percentage
+- Parking space requirements
+- Car parking design standards
+- Bicycle parking (some areas)
+- Landscape requirements
+- Accessibility standards
+- Stormwater management
+- Waste storage
+
+[BUILDING CODE COMPLIANCE]
+All building work must comply:
+- Victorian Building Code
+- Council planning conditions
+- Australian Standards
+- Accessibility requirements
+- Energy efficiency standards
+- Fire safety standards
+- Electrical work standards
+- Plumbing work standards
+- Structural engineering standards
+
+INSPECTIONS CONFIRM:
+- Compliance with codes
+- Conditions being met
+- Quality of workmanship
+- Safety standards met
+- Works progressing appropriately
+
+[DEVELOPMENT APPLICATIONS & APPEALS]
+If permit refused:
+- Request explanation
+- Understand reasons
+- Modify design to address concerns
+- Reapply with revised plans
+- Or lodge appeal with planning authority
+
+APPEAL PROCESS:
+1. Receive refusal notice
+2. Understand appeal timeframe (typically 60 days)
+3. Prepare appeal statement
+4. Gather supporting evidence
+5. Lodge appeal with VCAT (Victorian Civil and Administrative Tribunal)
+6. VCAT arranges hearing
+7. Decision issued
+8. Either upheld or overturned
+
+[PLANNING INFORMATION & SUPPORT]
+For planning advice:
+- Contact Council planning team: (03) 5153 9500
+- Website: www.eastgippsland.vic.gov.au
+- Email: Via contact form
+- In person: Council office
+- Pre-application meetings available
+
+INFORMATION TO PROVIDE:
+- Property address
+- Type of proposed work
+- Current plans or drawings
+- Intended use
+- Approximate costs
+- Timeline for works
+- Any heritage or environmental concerns
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/planning-and-building
+
+================================================================================
+SECTION 7: PET REGISTRATION & ANIMAL CONTROL
+================================================================================
+
+[PET REGISTRATION OVERVIEW]
+Registration requirements:
+- Compulsory for dogs and cats
+- Annual registration required
+- Lifetime microchip registration recommended
+- Owner responsibility
+- Renewal by due date prevents penalties
+- Concessions available for eligible residents
+
+REGISTRATION BENEFITS:
+- Legal compliance
+- Animal identification/recovery if lost
+- Council support for lost pets
+- Public safety management
+- Animal welfare monitoring
+
+[DOG REGISTRATION]
+Dogs must be registered:
+- Lifetime microchip required
+- Registration fee: Varies by age and type
+- Desexed/entire: Different rates apply
+- Working dogs: May have different rates
+- Annual renewal: Usually by March 30
+- Renewal reminders: Sent 4-6 weeks before
+
+REGISTRATION PROCESS:
+1. Obtain microchip (vet or Council)
+2. Complete registration form
+3. Provide microchip number
+4. Pay registration fee
+5. Receive registration papers
+6. Registration certificate valid 12 months
+
+COSTS (TYPICAL):
+- Desexed dog: $50-80
+- Entire dog: $80-120
+- Concession holder: Reduced rate (30-50% off)
+- Puppy (under 3 months): May be exempted initially
+- Dangerous dogs: Higher fee may apply
+
+[CAT REGISTRATION]
+Cats must be registered:
+- Microchip required (like dogs)
+- Annual registration required
+- Desexed rate vs entire rate
+- Renewal by due date
+- Indoor/outdoor status noted
+- Identification important
+
+REGISTRATION PROCESS:
+- Same as dog registration
+- Microchip essential
+- Form completion and fee
+- Annual renewal reminder
+
+COSTS (TYPICAL):
+- Desexed cat: $30-50
+- Entire cat: $50-80
+- Concession holder: Reduced rate
+- Kittens: May be exempted initially
+
+[DANGEROUS & RESTRICTED DOGS]
+Certain breeds have restrictions:
+- Pit Bull type dogs
+- Restricted breeds declared
+- Additional requirements imposed
+- Muzzling requirements
+- Containment requirements
+- Insurance requirements
+- Registration restrictions
+
+REQUIREMENTS FOR RESTRICTED DOGS:
+- Desexed (in most cases)
+- Microchipped and registered
+- Contained securely (fenced yard)
+- Muzzle in public (if required)
+- Leashed at all times in public
+- Liability insurance may be required
+- Training certificate (some cases)
+
+APPLICATION FOR EXEMPTION:
+- Can apply for exemption
+- Evidence required
+- Assessment by Council
+- Community consultation (some cases)
+- Decision: Usually within 2-3 months
+- Appeals available if refused
+
+[LOST & FOUND PETS]
+If your pet is lost:
+- Notify Council immediately: (03) 5153 9500
+- Report to local police (lost property)
+- Contact local vets
+- Post on social media and community boards
+- Check shelters and pounds
+- Leave microchip contact updated
+- Door-knock neighborhood if safe
+
+COUNCIL'S ROLE:
+- Records missing pets
+- Community notification possible
+- Assist with recovery efforts
+- Sheltering of found animals
+- Reunition assistance
+
+IF YOU FIND AN ANIMAL:
+- Check for identification/collar
+- Contact microchip registry (scan at vet)
+- Notify Council: (03) 5153 9500
+- Keep animal safe and contained
+- Provide food and water
+- Photograph for records
+- Contact local vets to report
+- Post on community boards
+
+[ANIMAL BEHAVIOR & ATTACKS]
+Dog attack reported:
+- Call 000 if person injured
+- Notify Council immediately: (03) 5153 9500
+- Gather witness information
+- Photograph injuries/scene
+- Seek medical attention if needed
+- Document incident details
+- Request formal statement
+
+COUNCIL INVESTIGATION:
+- Assesses attack circumstances
+- Interviews involved parties
+- Reviews witnesses
+- Determines liability
+- May impose conditions on dog
+- Dangerous dog declaration possible
+- Prosecution may follow
+
+[NOISE & NUISANCE ANIMAL COMPLAINTS]
+Barking dog or cat disturbance:
+- Keep detailed log of incidents
+- Note dates, times, duration
+- Record neighbor/owner details
+- Contact Council (non-emergency): (03) 5153 9500
+- Provide information about complaints
+- Council investigates
+- Resolution attempted with owner
+- Enforcement action if necessary
+
+COUNCIL RESOLUTION OPTIONS:
+- Contact owner educating about issue
+- Mediation between parties
+- Formal compliance order
+- Infringement notice
+- Prosecution if persistent
+
+[ANIMAL WELFARE & CRUELTY]
+Animal welfare concerns:
+- Contact Council: (03) 5153 9500
+- Or contact RSPCA Victoria: 1300 854 627
+- Describe welfare concerns in detail
+- Provide location and animal details
+- Council/RSPCA investigates
+- Intervention to protect animal
+- Possible prosecution of offender
+
+TYPES OF CONCERNS:
+- Neglect (food, water, shelter)
+- Abuse or violence
+- Inappropriate containment
+- Untreated medical conditions
+- Unsanitary living conditions
+- Excessive breeding
+
+[PET CONTAINMENT & FENCING]
+Legal requirements:
+- Dogs must be securely contained
+- Cannot roam freely on streets
+- Fencing must be appropriate
+- Gates and latches secure
+- Escape prevention measures
+- Electric fencing restrictions (some)
+- Compliance important
+
+FENCING STANDARDS:
+- Height: Minimum 1.2-1.5m (depending on dog)
+- Condition: No gaps or holes
+- Latches: Secure and dog-proof
+- Gates: Close securely
+- Regular maintenance
+- Inspection on complaint
+
+[MICROCHIPPING & IDENTIFICATION]
+Microchipping benefits:
+- Permanent identification
+- Pet recovery system if lost
+- Contact details registered
+- Change details if move
+- Multiple pets can be microchipped
+- Cost: $30-50 (vet)
+- Lifetime registration available
+
+REGISTRATION DATABASES:
+- Pet Link: www.petlink.com.au
+- Registry: Check with vet
+- Update when move/change details
+- Multiple contact numbers recommended
+- Regular checks recommended
+
+[SUPPORT FOR PET OWNERS]
+Council resources:
+- Animal management advice
+- Registration information
+- Behavior support information
+- Lost pet assistance
+- Animal welfare education
+- Community programs
+- Support for vulnerable pet owners
+
+[ANIMAL MANAGEMENT FEES & COSTS]
+Annual registration:
+- Dog: $50-120 (depending on status)
+- Cat: $30-80 (depending on status)
+- Microchip: $30-50 (vet cost)
+- Dangerous dog declaration: Higher registration fee
+- Late fee: Additional if not renewed on time
+- Replacement tags: Small cost
+
+CONCESSIONS AVAILABLE:
+- Health Care Card holders
+- Pensioners
+- Disability pensioners
+- Low-income verification
+- Typically 30-50% reduction
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/animal-management
+
+================================================================================
+SECTION 8: LIBRARIES & COMMUNITY FACILITIES
+================================================================================
+
+[LIBRARY SERVICES OVERVIEW]
+Council operates library network:
+- Bairnsdale Library: Main library
+- Lakes Entrance Library: Branch
+- Orbost Library: Branch
+- Mobile library services
+- Digital library resources
+- Community meeting spaces
+- Programs and events
+
+LIBRARY BENEFITS:
+- Free access to books and resources
+- Computer and internet access
+- Study spaces
+- Community programs
+- Children's story time
+- Adult education programs
+- Technology training
+- Digital resources access
+
+[BAIRNSDALE LIBRARY - MAIN BRANCH]
+Location & Details:
+- Address: 60 Nicholson Street, Bairnsdale
+- Phone: (03) 5150 1400
+- Email: Via Council website
+- Opening hours: Monday-Friday 10am-6pm, Saturday 10am-2pm
+- Parking: Available nearby
+- Accessibility: Wheelchair accessible
+
+FACILITIES:
+- Books and resources: 50,000+ items
+- Study areas
+- Public computers: 10+ stations
+- Free WiFi
+- Meeting rooms available for booking
+- Children's section
+- Young adults section
+- Large print collection
+- Audio books
+
+PROGRAMS & SERVICES:
+- Story time for children (weekly)
+- Summer reading programs
+- Adult education workshops
+- Technology training
+- Homework assistance
+- Job search support
+- Computer training
+
+[LAKES ENTRANCE LIBRARY - BRANCH]
+Location & Details:
+- Address: Cnr Marine Parade & Cunninghame Street, Lakes Entrance
+- Phone: (03) 5155 1465
+- Opening hours: Mon-Fri 10am-5pm, Sat 10am-1pm
+- Parking: Available
+- Accessibility: Accessible
+
+RESOURCES & PROGRAMS:
+- Books and resources
+- Computers for public use
+- WiFi access
+- Program space
+- Community meeting room
+- Local history collection
+- Tourism information
+
+[ORBOST LIBRARY - BRANCH]
+Location & Details:
+- Address: 105 Irving Street, Orbost
+- Phone: (03) 5154 8203
+- Opening hours: Limited hours (check website)
+- Parking: Available
+- Accessibility: Accessible
+
+SERVICES:
+- Book collection
+- Computer access
+- Community space
+- Local information
+
+[MOBILE LIBRARY SERVICE]
+For remote communities:
+- Traveling library service
+- Regular scheduled visits to towns
+- Book selection available
+- Returns and pickup
+- Community engagement
+- Schedule: Available from Council
+- Phone: (03) 5153 9500 for schedule
+
+[LIBRARY MEMBERSHIP & CARD]
+Registration:
+- Free library card for residents
+- Simple registration process
+- Proof of address required
+- Children: Parent/guardian registration
+- Non-resident access: May be available for fee
+- Card valid 3 years (renewal required)
+
+HOW TO JOIN:
+1. Visit library in person
+2. Provide proof of name and address
+3. Complete registration form
+4. Receive library card
+5. Can immediately borrow items
+
+[BORROWING RULES & LIMITS]
+Standard borrowing:
+- 30 items at a time (typically)
+- Loan period: 3-4 weeks (books vary)
+- Renewals: Available online or by phone
+- Returned by due date
+- Can renew if no holds
+- Return via library or book drops
+
+MATERIALS AVAILABLE:
+- Books (fiction, non-fiction)
+- Digital books (eBooks)
+- Audio books
+- DVDs and media
+- Magazines
+- Newspapers
+- Educational resources
+- Local information
+
+[OVERDUE ITEMS & FINES]
+Fine structure:
+- Adult items: Typically $0.10-0.20 per day
+- Children's items: Typically free or reduced
+- Maximum fine per item: Usually capped
+- Notice sent when overdue
+- Reminder sent before fine assessed
+- Can be paid in person, by phone or online
+
+OVERDUE MANAGEMENT:
+- Overdue notice sent
+- Grace period usually 7 days
+- Fine calculated if not returned
+- Account flagged if items unreturned
+- Cannot borrow new items if account in arrears
+- Negotiation possible for hardship
+
+[INTERLIBRARY LOANS]
+Request items from other libraries:
+- Request unavailable item
+- Search available from other libraries
+- Delivered to local library
+- Usually 1-2 weeks delivery time
+- Standard loan period applies
+- Small fee may apply
+
+[LIBRARY COMPUTER & INTERNET ACCESS]
+Public computers available:
+- Free for library members
+- Session time limits usually 1-2 hours
+- WiFi available
+- Printer access
+- Microsoft Office available
+- Internet browsers available
+- No illegal/inappropriate use
+
+TECHNOLOGY ACCESS:
+- Email access
+- Online job searching
+- Training available
+- Printing services
+- Help with basic computing
+- Password reset assistance
+- Tech support available
+
+[DIGITAL LIBRARY SERVICES]
+Online resources available:
+- eBooks and audiobooks (digital loan)
+- Online databases and encyclopedias
+- Digital learning programs
+- Job search platforms
+- Educational resources
+- Remote access (anytime)
+- Log in with library card
+
+DIGITAL COLLECTIONS:
+- Overdrive (eBooks/audiobooks)
+- BorrowBox (digital content)
+- Ancestry.com (genealogy)
+- Learning platforms
+- Research databases
+- Newspaper archives
+- Local history collections
+
+[COMMUNITY PROGRAMS & EVENTS]
+Regular programs offered:
+- Story time for children (weekly)
+- Parent/baby playgroup
+- School holiday programs
+- Summer reading program
+- Digital literacy classes
+- Job interview skills
+- Computer training
+- Creative writing workshops
+- Book clubs
+- Author talks and events
+
+SCHOOL PROGRAMS:
+- School excursions
+- Research support
+- Digital citizenship
+- Reading encouragement
+- Literacy support
+- Teacher resources
+
+[MEETING ROOMS & COMMUNITY SPACE]
+Facilities available to book:
+- Bairnsdale: Main meeting rooms
+- Lakes Entrance: Smaller space
+- Orbost: Limited space
+- Booking required (advance)
+- Reasonable costs
+- Community organizations priority
+- Commercial use available
+
+BOOKING PROCESS:
+1. Identify room needed
+2. Check availability online or call
+3. Complete booking form
+4. Confirm dates and times
+5. Pay booking fee
+6. Receive confirmation
+7. Library staff available on day
+
+[LIBRARY COLLECTIONS]
+Resources available:
+- Fiction: 15,000+ items
+- Non-fiction: 25,000+ items
+- Reference: Encyclopedias, atlases
+- Large print: For vision-impaired
+- Audiobooks: CDs and digital
+- DVDs: Films and documentaries
+- Children's books: Picture books to YA
+- Local history: Regional information
+- Tourism information
+
+[LIBRARY ACCESSIBILITY]
+Accessible services:
+- Wheelchair access to all libraries
+- Accessible toilets
+- Accessible parking
+- Large print materials
+- Audio books and digital
+- Computer accessibility features
+- Staff assistance available
+- Dyslexia-friendly fonts
+- Quiet study spaces
+
+[LIBRARY FEES & CHARGES]
+Most services free:
+- Library membership: Free
+- Book borrowing: Free
+- Computer access: Free
+- WiFi: Free
+- Meeting rooms: Modest booking fee
+- Printing: Small per-page cost
+- Interlibrary loan: May have small fee
+- Late fees: Per item per day
+
+[LIBRARY INFORMATION & SUPPORT]
+Contact library:
+- Phone: (03) 5150 1400 (Bairnsdale)
+- Email: Via Council website
+- Website: www.eastgippsland.vic.gov.au/libraries
+- In person at library
+- Opening hours on website
+
+INFORMATION NEEDED:
+- Library card number
+- Item wanted
+- Your contact details
+- Specific request details
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/libraries
+
+================================================================================
+SECTION 9: EMERGENCY & BUSHFIRE INFORMATION - COMPREHENSIVE
+================================================================================
+
+[EMERGENCY CONTACT INFORMATION]
+IMMEDIATE EMERGENCY:
+- Phone: 000 (fire, police, ambulance)
+- 24/7 availability
+- Life-threatening emergencies only
+- Describe situation clearly
+- Give location details
+- Stay on line if instructed
+
+NON-EMERGENCY POLICE:
+- Phone: 131 444 (Victoria Police)
+- Police incidents non-emergency
+- Report crimes
+- Traffic incidents
+- General police matters
+
+COUNCIL EMERGENCY:
+- Phone: (03) 5153 9500
+- Select emergency option
+- After hours availability
+- Community emergencies
+- Infrastructure emergencies
+- Welfare checks
+
+[BUSHFIRE PREPAREDNESS & SAFETY]
+East Gippsland Bushfire Risk:
+- Highly bushfire-prone region
+- Extended fire seasons
+- Extreme fire danger days possible
+- Community evacuation has occurred
+- Multiple fire routes
+- Emergency services well-resourced
+- Early warning essential
+
+BUSHFIRE SEASON:
+- Peak risk: December-February
+- Increased risk: November-April
+- Year-round risk possible
+- Daily fire danger rating published
+- Total Fire Ban days possible
+- Extreme Fire Danger possible
+
+[FIRE DANGER RATINGS]
+Victoria's Fire Danger Scale:
+- Low (Green): Safe day
+- Moderate (Yellow): Fire can start easily
+- High (Orange): Fire spread likely
+- Very High (Red): Fires uncontrollable
+- Extreme (Dark Red): Catastrophic conditions
+- Catastrophic (Purple): Do not implement plan
+
+DAILY MONITORING:
+- Published by Country Fire Authority (CFA)
+- Available online: www.cfa.vic.gov.au
+- Television broadcasts daily
+- Updated each morning by 11am
+- Check before outdoor activities
+- Plan accordingly
+
+[BUSHFIRE SURVIVAL PLAN]
+Preparation steps:
+
+PROPERTY PREPARATION:
+1. Clear gutters of leaves
+2. Remove dead branches overhanging roof
+3. Cut grass/vegetation away from house
+4. Prune lower tree branches (2m minimum)
+5. Remove climbing vines
+6. Store firewood away from house
+7. Clear leaves and debris from yard
+8. Enclose open spaces under deck/house
+9. Install metal screens on vents
+10. Secure loose roofing
+
+HOUSE HARDENING:
+- Metal roof preferable
+- Metal gutters and downpipes
+- Enclosed eaves
+- Tempered/safety windows
+- Metal doors
+- No external timber features
+- Minimal external vegetation
+
+EVACUATION PLAN:
+1. Identify evacuation route(s)
+2. Plan alternate routes
+3. Know locations of evacuation centers
+4. Practice evacuation drill
+5. Have transport ready
+6. Ensure family knows plan
+7. Update contacts regularly
+8. Have supplies prepared
+
+EMERGENCY KIT PREPARATION:
+- Important documents (copies)
+- Photos of house/contents
+- Medications and medical records
+- Irreplaceable items prepared
+- Cash (ATMs may not work)
+- Change of clothes/sturdy shoes
+- Sturdy backpack
+- Supplies for at least 24 hours
+
+[TOTAL FIRE BAN DAYS]
+Total Fire Ban declared when:
+- Extreme Fire Danger forecast
+- Conditions support major fires
+- Resource demands peak
+- Usually late afternoon announcement
+- Next day implementation
+
+RESTRICTIONS ON TOTAL FIRE BAN:
+- NO outdoor fires (any kind)
+- NO BBQs (gas and electric okay)
+- NO smoking in open areas
+- NO machinery that creates sparks
+- Existing fires must be extinguished
+- NO hot work (welding, cutting)
+- Penalties for breach: Up to $57,000 fine
+
+[EVACUATION INFORMATION]
+Evacuation ordered:
+- Issued by State Emergency Service (SES)
+- Via media, sirens, door knocking
+- Listen to local radio/TV
+- Follow evacuation routes
+- Leave immediately
+- Don't wait for official instruction if unsafe
+- Go to evacuation center or safe location
+
+EVACUATION ROUTES:
+- Mallacoota: Inland route via Genoa
+- Lakes Entrance: Inland via Bruthen
+- Orbost: Multiple routes inland
+- Bairnsdale: Multiple routes inland
+- Check routes in advance
+- Have alternative routes
+- Not all safe in all conditions
+
+EVACUATION CENTERS:
+- Established in safe areas
+- Bairnsdale (primary center)
+- Other towns set up as needed
+- Services: Shelter, water, food
+- Information updates
+- Pet-friendly (some areas)
+- Managed by State Emergency Service
+- Contact Council for current locations
+
+[DURING A BUSHFIRE]
+IF EVACUATING:
+1. Close all windows and doors
+2. Turn off gas at meter
+3. Leave lights on
+4. Shut internal doors
+5. Leave gates open
+6. Leave ute/car in driveway
+7. Take prepared kit
+8. Follow evacuation route
+9. Go to evacuation center
+10. Do NOT drive through smoke
+
+IF SHELTERING AT HOME:
+1. Close all windows and doors
+2. Shut internal doors
+3. Turn off gas
+4. Leave lights on
+5. Fill bathtubs with water
+6. Wear protective clothing
+7. Stay inside
+8. Listen to radio for updates
+9. Be prepared to evacuate
+10. Monitor embers
+
+PROTECTING YOURSELF:
+- Wear long sleeves and long pants
+- Sturdy enclosed footwear
+- Hat (hard hat if possible)
+- Goggles or safety glasses
+- N95 or P2 face mask if smoke
+- Wet towels around windows/doors
+
+[AFTER A BUSHFIRE]
+Return to property:
+- Wait for all-clear from authorities
+- Return may take days/weeks
+- Check for hazards
+- Document damage for insurance
+- Report infrastructure damage to Council
+- Assist vulnerable neighbors
+- Be aware of hazards: Fallen trees, power lines, ash
+
+RECOVERY SUPPORT:
+- Council assistance available
+- Emergency relief programs
+- Business support programs
+- Counseling and wellbeing services
+- Housing assistance
+- Financial support
+
+DISASTER RECOVERY:
+- Contact Council: (03) 5153 9500
+- Contact State Emergency Hotline: 1800 226 226
+- Apply for recovery assistance
+- Contact insurance companies
+- Seek professional support if needed
+
+[FIRE PREVENTION EDUCATION]
+Community programs:
+- Fire safety workshops
+- CFA community meetings
+- School education programs
+- Workplace fire safety training
+- Home fire safety assessments
+- Evacuation drill participation
+- Community Fireguard programs
+
+FIREGUARD PROGRAM:
+- Prepares community for fires
+- Group-based community preparation
+- Training and planning
+- Ongoing support
+- Available in fire-prone areas
+- Contact CFA for participation
+
+[COMMUNITY FIRE DANGER INFORMATION]
+Daily fire danger:
+- Check CFA website: www.cfa.vic.gov.au
+- Television forecasts
+- Radio broadcasts
+- Local news updates
+- Mobile app available
+- Email subscriptions available
+- Community alerts via Emergency Alert system
+
+[OTHER EMERGENCIES]
+Floods:
+- Listen to SES warnings
+- Evacuation may be ordered
+- Don't drive/walk through flood water
+- Report flooding to Council: (03) 5153 9500
+- Assistance available for flood-affected
+
+Severe storms:
+- Seek shelter immediately
+- Stay away from windows
+- Turn off electrical equipment
+- Don't use landlines
+- Report hazards: 000 if dangerous
+
+Hazardous materials:
+- Call 000 for spills
+- Evacuate area if instructed
+- Don't attempt cleanup
+- Listen to authorities
+
+[VULNERABLE PEOPLE SUPPORT]
+Special assistance:
+- Elderly residents
+- Disability support
+- Limited mobility
+- Chronic health conditions
+- Mental health issues
+- Language barriers
+
+ASSISTANCE AVAILABLE:
+- Door-knock evacuation help
+- Transport to evacuation centers
+- Medication reminders
+- Welfare checks
+- Support animals accommodation
+- Accessible facilities
+
+REGISTER FOR ASSISTANCE:
+- Contact Council: (03) 5153 9500
+- Register early (before fire season)
+- Provide contact and location details
+- Update regularly
+- Nominate helper if needed
+
+[PETS & LIVESTOCK PLANNING]
+Evacuation with animals:
+- Have carriers/cages prepared
+- Microchip/ID current
+- Recent photos of animals
+- Veterinary records
+- Pet supplies prepared
+- Evacuation center arrangements
+- Backup locations planned
+
+LIVESTOCK:
+- Have evacuation plan
+- Clear identification
+- Vaccination records
+- Water troughs filled
+- Gates clearly marked
+- Pasture access if not evacuating
+- Fire-resistant marking (some)
+
+[BUSHFIRE RESOURCES & CONTACTS]
+Main contacts:
+- Country Fire Authority (CFA): 1800 240 667
+- Bureau of Meteorology: www.bom.gov.au
+- VicEmergency Hotline: 1800 226 226
+- State Emergency Service: 132 500
+- Council: (03) 5153 9500
+- Red Cross: 1800 RED CROSS
+
+ONLINE RESOURCES:
+- CFA: www.cfa.vic.gov.au (fire information)
+- VicEmergency: www.emergency.vic.gov.au (evacuation alerts)
+- Bureau of Meteorology: Fire weather forecasts
+- East Gippsland online: Local information
+
+PLANNING RESOURCES:
+- "Prepare. Act. Survive." guide (CFA)
+- Community Fire Danger guides
+- Bushfire survival plans
+- Property preparation checklists
+- Community Fireguard programs
+
+[COMMUNITY EMERGENCY RESILIENCE]
+Building community capacity:
+- Neighborhood watch groups
+- Community planning meetings
+- Training opportunities
+- Resource sharing
+- Mutual support networks
+- Communication networks
+- Vulnerable person identification
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/emergency-and-bushfire
+
+================================================================================
+SECTION 10: GIPPSLAND LAKES & TOURISM - COMPREHENSIVE
+================================================================================
+
+[GIPPSLAND LAKES OVERVIEW]
+Regional tourism destination:
+- Major lakes system: 288 square kilometers
+- Victoria's largest inland water system
+- Popular for recreation and tourism
+- Coastal towns including Lakes Entrance
+- Beautiful scenery and natural beauty
+- Year-round visitor attraction
+- Important ecological system
+- Economic hub for region
+
+LAKES CHARACTERISTICS:
+- Lake Reeve (Eastern)
+- Lake King (Central)
+- Lake Victoria (Western)
+- Connected by waterways
+- Entrance to ocean: Lakes Entrance town
+- Average depth: 2.2 meters
+- Tidal system
+- Important for aquatic life
+
+[LAKES ENTRANCE TOWN]
+Tourism hub:
+- Population: ~3,500 permanent residents
+- Visitor information center
+- Accommodation options
+- Restaurants and cafes
+- Activity operators
+- Beach and swimming
+- Fishing opportunities
+- Shopping and services
+
+ATTRACTIONS & ACTIVITIES:
+- Boat tours and cruises
+- Fishing (freshwater and saltwater)
+- Swimming and water sports
+- Walking trails
+- Local history museum
+- Pelican feeding (tourist activity)
+- Camping nearby
+- Photography opportunities
+
+[ACCOMMODATION OPTIONS]
+Hotels and motels:
+- Various price ranges
+- Holiday parks and caravan parks
+- Short-term rental homes
+- Backpacker hostels
+- Houseboats available
+- Camping grounds
+- Holiday apartments
+- Booking services available
+
+POPULAR ACCOMMODATION:
+- Ramada Resort Lakes Entrance
+- Meridian Club Lakes Entrance
+- Holiday parks with powered sites
+- Lakeside chalets
+- Self-contained apartments
+- Budget motels
+- Bed and breakfast options
+
+[OUTDOOR RECREATION]
+Water activities:
+- Boating and yachting
+- Fishing (recreational)
+- Swimming
+- Water skiing
+- Jet skiing (designated areas)
+- Kayaking
+- Sailing
+- Dive sites
+
+LAND ACTIVITIES:
+- Walking trails
+- Hiking in national parks
+- Cycling paths
+- Golf courses
+- Bird watching
+- Photography
+- Picnicking
+- Scenic drives
+
+[NATURAL ATTRACTIONS NEARBY]
+Buchan Caves:
+- Historic limestone caves
+- 300+ years old (geological)
+- Guided tours available
+- Family-friendly attraction
+- Stalactites and stalagmites
+- Underground streams
+- 30+ caves in area
+- Advance bookings recommended
+
+LOCATION: Near Buchan (45km west of Lakes Entrance)
+ACTIVITIES: Cave tours, hiking, picnicking, visitor center
+
+Croajingolong National Park:
+- Remote coastal national park
+- 88 km of pristine coastline
+- Walking trails
+- Camping facilities
+- Diverse wildlife
+- Scenic beauty
+- Day visits welcome
+- Extended exploration possible
+
+FEATURES: Wilderness camping, Peppermint Creek, Sydenham Inlet, Tidal River
+
+Ninety Mile Beach:
+- Long sandy beach
+- 42 kilometer stretch
+- Vehicle access (some areas)
+- Fishing
+- Camping
+- Walking
+- Solitude and nature
+- Wind sports
+
+[FISHING OPPORTUNITIES]
+Freshwater fishing:
+- Lakes system excellent for fishing
+- Bream, barramundi, perch
+- Recreational fishing licenses required
+- Fishing competitions regular
+- Charter services available
+- Fishing licenses: VRFish Victoria
+
+SALTWATER FISHING:
+- Ocean fishing nearby
+- Jetties and piers
+- Beach fishing
+- Snorkeling opportunities
+- Spearfishing (regulated)
+- Charter boats available
+- Fish stocks managed sustainably
+
+FISHING REGULATIONS:
+- License required (VRFish Victoria)
+- Size and bag limits apply
+- Restricted areas (marine parks)
+- Seasonal restrictions (some species)
+- Bait regulations
+- Penalties for breach
+- Support local fish stocks
+
+[WILDLIFE & BIRDWATCHING]
+Diverse birdlife:
+- Over 200 species recorded
+- Migratory species
+- Water birds
+- Raptors
+- Wading birds
+- Year-round viewing
+- Best viewing: Dawn and dusk
+
+NATIVE WILDLIFE:
+- Eastern brown snakes (avoid)
+- Monitor lizards
+- Platypus (rare, freshwater)
+- Echidnas
+- Wallabies
+- Possums
+- Marine mammals (occasional)
+
+BIRDWATCHING SITES:
+- Lake edges
+- Wetland areas
+- Forested areas
+- Coastal zones
+- National parks
+
+[CAMPING & ACCOMMODATION]
+Caravan parks:
+- Lakes Entrance area
+- Powered and unpowered sites
+- Facilities: Toilets, showers, laundry
+- Camp kitchens
+- Barbecue areas
+- Playground (some sites)
+- Pet-friendly (some sites)
+- Booking in advance recommended
+
+NATIONAL PARK CAMPING:
+- Croajingolong National Park: Wilderness camping
+- Permits required for some sites
+- Limited facilities (water, toilets)
+- Beautiful remote locations
+- Extended walking opportunities
+- Booking essential (popular sites)
+
+[SEASONAL INFORMATION]
+Summer (Dec-Feb):
+- Warmest season
+- Peak tourism
+- Water activities
+- Accommodation full
+- Bushfire risk
+- Weather: Hot, occasional rain
+
+Autumn (Mar-May):
+- Mild weather
+- Less crowded
+- Good for walking
+- Water still warm
+- Autumn colors in some areas
+
+Winter (June-Aug):
+- Cool weather
+- Fewer tourists
+- Accommodation available
+- Fishing season
+- Water cold
+- Some activities limited
+
+Spring (Sep-Nov):
+- Warming temperatures
+- Wildlife activity
+- Wildflower blooming
+- Tourist numbers increase
+- Spring school holidays busy
+
+[VISITOR INFORMATION]
+Lakes Entrance Visitor Information Centre:
+- Location: Bellarine Street, Lakes Entrance
+- Phone: (03) 5155 0855
+- Email: Available via website
+- Opening: Year-round
+- Services: Accommodation booking, activity info, maps
+- Website: www.visitlakesvi.com.au
+
+INFORMATION AVAILABLE:
+- Accommodation options
+- Activity operators
+- Dining recommendations
+- Attractions list
+- Walking trails
+- Fishing information
+- Weather forecasts
+- Events calendar
+
+[CULTURAL & EVENTS]
+Annual events:
+- Festival of King Lake (January)
+- Summer program activities
+- Community events
+- Market days
+- Music performances
+- Sporting events
+- School holiday programs
+- Cultural celebrations
+
+[MARINE & WATER SAFETY]
+Water safety:
+- Swim in designated areas
+- Check conditions before activity
+- Wear life jackets on boats
+- Rip current awareness
+- Jellyfish warning (seasonal)
+- Sun protection
+- Drowning prevention
+- Designated swimming beaches
+
+WILDLIFE ENCOUNTERS:
+- Crocodiles: None (temperate region)
+- Sharks: Rare, avoid dawn/dusk swimming
+- Stingrays: Shuffle feet in shallows
+- Jellyfish: Seasonal (summer)
+- Snakes: Avoid and report to authorities
+
+[SUSTAINABLE TOURISM]
+Protecting environment:
+- Take rubbish with you
+- Don't feed wildlife
+- Use designated walkways
+- Respect private property
+- Minimal impact camping
+- Sustainable fishing practices
+- Support local businesses
+- Water conservation
+
+ENVIRONMENTAL PROTECTIONS:
+- Marine parks (no-take zones)
+- Protected areas
+- Wildlife corridors
+- Vegetation protection
+- Wetland management
+- Fishing regulations
+- Visitor education
+- Habitat restoration
+
+[TOURIST SERVICES & SUPPORT]
+Restaurants and cafes:
+- Various cuisines available
+- Casual to fine dining
+- Lakeside options
+- Takeaway options
+- Dietary requirements catered
+- Seasonal opening (some)
+
+SHOPS & SERVICES:
+- General stores
+- Supermarkets
+- Souvenir shops
+- Adventure equipment rental
+- Fishing tackle shops
+- Petrol stations
+- ATMs and banks
+- Medical services
+
+TRANSPORT:
+- Car: Primary transport
+- Local taxis available
+- Bus services (limited)
+- Walking trails
+- Rental cars available
+- RV rental
+- Boat charters
+
+[ACCESSIBILITY IN TOURISM]
+Accessible tourism:
+- Wheelchair access (many locations)
+- Accessible accommodation
+- Accessible public toilets
+- Accessible walking trails
+- Audio descriptions (some attractions)
+- Mobility aids rental
+- Assistance animals welcome
+- Accessible dining
+
+ADDITIONAL SUPPORT:
+- TTY relay services
+- Transport assistance
+- Visual/hearing support
+- Accessible information formats
+- Staff assistance
+- Rest areas
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/tourism-and-recreation
+
+================================================================================
+SECTION 11: ROADS, FOOTPATHS & DRAINAGE
+================================================================================
+
+[ROAD MAINTENANCE & SERVICES]
+Council road responsibilities:
+- Local road network maintenance
+- Pothole repair
+- Road surface maintenance
+- Drainage on roads
+- Street lighting
+- Traffic management
+- Road safety improvements
+
+REPORT ISSUES:
+- Phone: (03) 5153 9500
+- Online: Website report form
+- In person: Council office
+- Include: Location, type of issue, urgency
+
+[POTHOLE REPAIRS]
+Reporting potholes:
+- Describe location clearly
+- Note size and hazard level
+- Provide contact details
+- Council prioritizes by hazard
+- Urgent repairs: Life/safety risk
+- Standard repairs: 2-4 weeks typical
+- Updates: Contact Council for status
+
+POTHOLE HAZARDS:
+- Vehicle damage
+- Bicycle accidents
+- Pedestrian trips
+- Water pooling
+- Deterioration
+- Safety risk
+- Council priority for repair
+
+[ROAD DAMAGE & COMPLAINTS]
+Reporting road issues:
+- Cracks and deterioration
+- Flooding on roads
+- Debris on roads
+- Dangerous conditions
+- Broken street lights
+- Traffic hazards
+
+PROCESS:
+1. Report to Council (phone, online, in person)
+2. Provide location details
+3. Explain hazard/issue
+4. Council assesses priority
+5. Scheduled for repair
+6. Work completed
+7. Updates provided
+
+[FOOTPATH MAINTENANCE]
+Footpath services:
+- Inspection and maintenance
+- Repair of damaged sections
+- Clearing of obstructions
+- Safety improvements
+- Accessibility maintenance
+- Winter maintenance (ice clearing)
+
+REPORTING FOOTPATH ISSUES:
+- Broken pavement
+- Overhanging branches
+- Obstructions
+- Safety hazards
+- Accessibility issues
+
+HOW TO REPORT:
+- Phone: (03) 5153 9500
+- Online: Report form
+- In person: Council office
+- Email via website
+
+[FOOTPATH CONSTRUCTION & FUNDING]
+New footpaths:
+- Petition process for communities
+- Cost-sharing arrangements
+- State grants available (some)
+- Prioritization based on need
+- Community benefit assessment
+- Accessibility standards applied
+- Drainage considered
+
+APPLICATION PROCESS:
+1. Community request/petition
+2. Concept design
+3. Cost estimate
+4. Funding decision
+5. Design refinement
+6. Community consultation
+7. Construction contract
+8. Works completion
+
+[DRAINAGE & STORMWATER]
+Stormwater management:
+- Drainage network maintenance
+- Stormwater quality
+- Flood prevention
+- Environmental protection
+- Urban waterways
+- Wetland management
+
+ISSUES & COMPLAINTS:
+- Blocked drains
+- Flooding on property
+- Water pooling on roads
+- Contaminants in stormwater
+- Debris in waterways
+
+[STREET TREES & VEGETATION]
+Council tree responsibilities:
+- Maintenance of street trees
+- Pruning and trimming
+- Removal of dangerous trees
+- Replanting programs
+- Environmental benefits
+- Community amenity
+
+TREE ISSUES & REQUESTS:
+- Overhanging branches
+- Dangerous trees
+- Tree removal request
+- New tree planting
+- Tree protection concerns
+
+REQUESTING TREE WORK:
+1. Contact Council: (03) 5153 9500
+2. Identify tree location
+3. Describe issue/request
+4. Assessment conducted
+5. Decision communicated
+6. Work scheduled if approved
+7. Completion notification
+
+[TRAFFIC MANAGEMENT]
+Council traffic services:
+- Speed limit management
+- Traffic calming measures
+- Parking regulations
+- Traffic signals
+- Road signage
+- School zone safety
+- Pedestrian safety
+
+TRAFFIC SAFETY:
+- Speed limits enforced by police
+- Pedestrian crossings
+- School zones
+- Community safety measures
+- Accident reporting (police)
+
+[STREET LIGHTING]
+Street light maintenance:
+- Council maintains public lights
+- Repair of faulty lights
+- Upgrade programs
+- Energy efficiency
+- Safety improvement
+
+REPORTING BROKEN LIGHTS:
+- Phone: (03) 5153 9500
+- Describe location
+- Note if light out
+- Council schedules repair
+- Repairs usually within 1-2 weeks
+
+[PARKING REGULATIONS]
+Parking rules:
+- Time-limited parking (some areas)
+- No-parking zones
+- Disabled parking spaces
+- Loading zones
+- Overflow parking
+- Parking enforcement
+
+COMPLAINTS & VIOLATIONS:
+- Illegal parking report: Council or police
+- Obstructive parking: Phone (03) 5153 9500
+- Parking enforcement: Rangers patrol
+- Penalties: Infringement notice
+- Appeals available
+
+[ROAD WORKS & CONSTRUCTION]
+Major roadworks:
+- Planning and design
+- Public notification required
+- Traffic management during works
+- Completion timeframes
+- Dust and noise management
+- Community liaison
+
+INFORMATION:
+- Website notices: www.eastgippsland.vic.gov.au
+- Local media announcements
+- Community consultation
+- Regular updates
+- Contact for concerns: (03) 5153 9500
+
+[WINTER WEATHER MAINTENANCE]
+Winter road safety:
+- Ice clearing on roads
+- Salt/grit application
+- Pothole monitoring
+- Accident prevention
+- Weather monitoring
+- Emergency response capacity
+
+[PEDESTRIAN SAFETY]
+Pedestrian considerations:
+- Pedestrian crossing safety
+- Ramp accessibility
+- Footpath maintenance
+- Lighting for safety
+- Traffic calming
+- Community education
+- Accident prevention
+
+[CYCLING & BIKE PATHS]
+Bicycle facilities:
+- Shared paths
+- Dedicated bike lanes
+- Bike parking (some locations)
+- Safety education
+- Community programs
+- Environmental benefits
+
+CYCLING ROUTES:
+- Available in some towns
+- Recreational cycling areas
+- Mountain biking (designated)
+- Tourist cycling routes
+- Safety standards applied
+- Maintenance scheduled
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/roads-and-drainage
+
+================================================================================
+SECTION 12: ENVIRONMENTAL HEALTH & SAFETY
+================================================================================
+
+[ENVIRONMENTAL HEALTH OVERVIEW]
+Services include:
+- Food safety inspections
+- Public health regulations
+- Environmental contamination
+- Health and safety compliance
+- Community health protection
+- Disease prevention
+- Immunization coordination
+
+[FOOD BUSINESS PERMITS & REGISTRATION]
+Food business registration:
+- All food businesses must register
+- Process: Phone or online
+- Cost: Usually low or free
+- Registration updated annually
+- Compliance with food standards
+- Health inspections conducted
+
+BUSINESSES REQUIRING REGISTRATION:
+- Restaurants and cafes
+- Food trucks
+- Catering services
+- Takeaway shops
+- Bakeries
+- Farms (some)
+- Food processors
+- Community kitchens
+
+APPLICATION PROCESS:
+1. Obtain registration form
+2. Complete details
+3. Describe food handling
+4. Submit to Council
+5. Registration issued
+6. Health inspection scheduled
+7. Compliance assessment
+
+[FOOD SAFETY STANDARDS]
+Compliance required:
+- Food handling procedures
+- Temperature control
+- Hygiene standards
+- Staff training
+- Contamination prevention
+- Allergen management
+- Record keeping
+- Equipment maintenance
+
+INSPECTIONS:
+- Scheduled inspections: Annual or more frequent
+- Surprise inspections: Possible (complaints)
+- Compliance assessment
+- Improvement notices if needed
+- Serious issues: Closure possible
+
+[FOOD HANDLING TRAINING]
+Training availability:
+- Food safety course
+- Staff training programs
+- Allergen training
+- Hygiene training
+- Council may provide resources
+- External courses available
+- Certification available (some)
+
+[HEALTH PERMITS & APPROVALS]
+Permits required for:
+- Septic tank systems
+- Wastewater discharge
+- Swimming pool operation
+- Spa pool operation
+- Tattoo premises
+- Beauty therapy facilities
+- Caravan park operation
+- Aged care facilities
+
+APPLICATION & ASSESSMENT:
+1. Identify permit needed
+2. Complete application
+3. Pay permit fee
+4. Council assesses application
+5. May require site inspection
+6. Conditions imposed
+7. Permit issued
+8. Compliance monitoring
+
+[ENVIRONMENTAL CONTAMINATION]
+Contaminated land:
+- Assessment and management
+- Historical industrial sites
+- Remediation requirements
+- Waste dump sites
+- Chemical spills
+- Soil testing
+- Public health protection
+
+CONCERNS & REPORTING:
+- Report contamination concerns
+- Phone: (03) 5153 9500
+- Describe location and issue
+- Council investigates
+- Remediation ordered if needed
+- Public notification if required
+
+[WATER QUALITY & TESTING]
+Water safety:
+- Drinking water quality
+- Recreational water quality
+- Testing programs
+- Standards compliance
+- Public notification if issues
+- Health protection
+
+[NOISE POLLUTION & CONTROL]
+Noise regulations:
+- Excessive noise prohibited
+- Curfew hours (typically 10pm-7am)
+- Residential noise standards
+- Construction noise (daytime only)
+- Complaints investigation
+- Enforcement action if needed
+
+COMMON NOISE ISSUES:
+- Loud music/parties
+- Barking dogs
+- Machinery noise
+- Construction activities
+- Traffic noise
+- Industrial noise
+
+COMPLAINT PROCESS:
+1. Keep noise log (dates, times)
+2. Contact Council: (03) 5153 9500
+3. Provide details
+4. Council investigates
+5. Mediation attempted
+6. Compliance notice if needed
+7. Enforcement if persistent
+
+[DANGEROUS GOODS & HAZARDOUS MATERIALS]
+Regulation and storage:
+- Petrol and chemicals
+- Storage standards
+- Labeling requirements
+- Safety data sheets
+- Spill response
+- Community notification
+- Emergency planning
+
+[PEST CONTROL & MANAGEMENT]
+Pest issues:
+- Rodents and insects
+- Disease vectors
+- Public health risk
+- Prevention programs
+- Control advice
+- Treatment services (some)
+
+COMMON PESTS:
+- Rats and mice
+- Cockroaches
+- Mosquitoes
+- Wasps and bees
+- Fleas and ticks
+- Bedbugs
+
+MANAGEMENT:
+- Identification and assessment
+- Chemical treatments
+- Environmental controls
+- Prevention advice
+- Health protection
+- Cost varies
+
+[COMMUNICABLE DISEASES]
+Disease management:
+- Reporting requirements
+- Public health responses
+- Isolation/quarantine protocols
+- Contact tracing
+- Vaccination programs
+- Community education
+- Health emergency response
+
+REPORTING DISEASE:
+- Doctor reports notifiable diseases
+- Council coordinated response
+- Contact tracing
+- Public health measures
+- Confidentiality maintained
+- Protection of community
+
+[IMMUNIZATION PROGRAMS]
+Vaccine programs available:
+- Childhood immunizations
+- Adult vaccinations
+- Seasonal flu shots
+- Travel vaccinations
+- School immunization programs
+- Age-appropriate vaccinations
+- Free programs (eligible)
+- Provider network
+
+ACCESS:
+- GP surgeries
+- Community health centers
+- Council may provide info/resources
+- Booking systems
+- Free for eligible groups
+- Cost varies (private)
+
+[HEALTH PROMOTION & EDUCATION]
+Community health programs:
+- Nutrition education
+- Exercise programs
+- Mental health support
+- Chronic disease management
+- Wellness programs
+- Health awareness campaigns
+- Community partnerships
+
+[TATTOO & BODY ART FACILITIES]
+Regulations:
+- Permits required
+- Hygiene standards
+- Sterilization requirements
+- Staff training
+- Infection control
+- Consent procedures
+- Complaint handling
+
+PERMIT PROCESS:
+1. Identify facility location
+2. Complete application
+3. Describe procedures
+4. Submit to Council
+5. Site inspection
+6. Assessment and approval
+7. Permit issued
+8. Ongoing compliance
+
+[BEAUTY & THERAPY SERVICES]
+Regulations:
+- Hair salons and beauty therapy
+- Hygiene and safety standards
+- Equipment sterilization
+- Chemical safety
+- Staff training
+- Consumer protection
+- Complaint handling
+
+[PUBLIC HEALTH ADVICE & SUPPORT]
+Contact for health matters:
+- Environmental health officer
+- Phone: (03) 5153 9500
+- Website contact form
+- In person: Council office
+- Confidential advice available
+- Professional guidance
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/health-and-safety
+
+================================================================================
+SECTION 13: CUSTOMER SERVICE & COMPLAINTS - COMPREHENSIVE
+================================================================================
+
+[CUSTOMER SERVICE CONTACT OPTIONS]
+Council customer service:
+- Phone: (03) 5153 9500
+- Email: Via website contact form
+- In person: Council offices
+- Online portal: Account services
+- Social media: Facebook/website
+- Mail: Postal enquiries
+- Website: www.eastgippsland.vic.gov.au
+
+OPENING HOURS:
+- Monday-Friday: 8:30am-5:00pm
+- Closed weekends and public holidays
+- After-hours: Emergency line available
+- Phone option for emergency
+- Website available 24/7
+
+[MAKING AN ENQUIRY]
+Contact procedure:
+1. Identify your issue/question
+2. Choose contact method
+3. Provide clear details
+4. Include contact information
+5. Submit/call with details
+6. Reference number provided
+7. Follow-up timeframe given
+8. Response provided as promised
+
+INFORMATION TO HAVE READY:
+- Property address (if relevant)
+- Customer/account reference
+- Rate notice number
+- Previous correspondence details
+- Specific question/issue
+- Preferred contact method
+- Contact details (phone/email)
+
+[RESPONSE TIMEFRAMES]
+Council service standards:
+- Acknowledgment: Within 2 business days
+- Simple queries: Within 5 business days
+- Complex matters: Within 10-15 business days
+- Complaints: Formal process (20+ days)
+- Emergency issues: Urgent prioritization
+- Status updates: Available if requested
+
+[COMPLAINTS PROCESS]
+Formal complaints:
+- Use for service failures
+- Unmet expectations
+- Staff conduct concerns
+- Process breaches
+- Policy disagreements
+- Quality issues
+
+COMPLAINT SUBMISSION:
+1. Contact Council
+2. Explain complaint clearly
+3. Provide all relevant information
+4. Request complaint form if needed
+5. Submit complaint in writing (better)
+6. Keep copy for records
+7. Reference number issued
+8. Investigation commenced
+
+HOW TO COMPLAIN:
+- In person: Council office
+- Phone: (03) 5153 9500
+- Email: Via website
+- Mail: Formal letter
+- Online: If available
+- Social media: Last resort
+
+COMPLAINT DETAILS TO INCLUDE:
+- Your name and contact details
+- Date of incident/issue
+- Description of complaint
+- Council staff/department involved
+- Outcome desired
+- Previous resolution attempts
+- Supporting documentation
+- Preferred contact method
+
+[COMPLAINT INVESTIGATION PROCESS]
+Timeline and process:
+
+STAGE 1 (Acknowledgment): Receipt confirmed (2 business days)
+STAGE 2 (Investigation): Evidence gathered, witnesses contacted (7-10 days)
+STAGE 3 (Assessment): Manager reviews (5 business days)
+STAGE 4 (Resolution): Outcome decided (10-15 business days from complaint)
+STAGE 5 (Decision): Formal response issued
+STAGE 6 (Appeal): Appeals process available
+
+INVESTIGATION INCLUDES:
+- Complaint review
+- Evidence collection
+- Staff interviews
+- Policy review
+- Precedent review
+- Legal considerations
+- Recommendations
+
+[RESOLUTION OPTIONS]
+Possible outcomes:
+- Apology and explanation
+- Service correction
+- Process change
+- Compensation (financial)
+- Training for staff
+- Policy amendment
+- Service improvement
+- Procedure change
+
+[APPEALS & ESCALATION]
+If dissatisfied with response:
+- Appeal available (within timeframe)
+- Submit appeal with reasons
+- Escalated to senior management
+- Further investigation if needed
+- Senior manager review
+- Final decision issued
+- Further escalation options
+
+ESCALATION OPTIONS:
+- Council leadership review
+- Ombudsman Victoria (external)
+- Legal action (court)
+- Legislative review body (some cases)
+- Media involvement (rarely effective)
+- Advocacy organization support
+
+[OMBUDSMAN VICTORIA COMPLAINTS]
+External complaint authority:
+- Independent government agency
+- Investigates Council complaints
+- Free service
+- Phone: 1800 806 314
+- Website: www.ombudsman.vic.gov.au
+- Email: complaints@ombudsman.vic.gov.au
+- Can override Council decisions (some)
+
+WHEN TO USE OMBUDSMAN:
+- Council didn't respond
+- Response is unsatisfactory
+- Misconduct alleged
+- Serious service failure
+- Disagreement about decision
+- Second opinion desired
+- Fairness concern
+
+[FEEDBACK & COMPLIMENTS]
+Positive feedback:
+- Council welcomes feedback
+- Acknowledge good service
+- Recognize helpful staff
+- Suggest improvements
+- Share suggestions
+- Positive feedback valuable
+- Makes staff appreciated
+
+HOW TO PROVIDE FEEDBACK:
+- Same contact methods as complaints
+- Mention staff member specifically
+- Detail what went well
+- Suggest improvements
+- Provide constructive feedback
+- Contact: (03) 5153 9500
+
+[RECORD KEEPING & DOCUMENTATION]
+For complaints:
+- Keep copies of all correspondence
+- Document dates and times
+- Save emails and letters
+- Note staff names (if relevant)
+- Photograph evidence (if applicable)
+- Record conversation details
+- Keep organized file
+- Reference numbers recorded
+
+[PRIVACY & CONFIDENTIALITY]
+Complaint confidentiality:
+- Details kept confidential
+- Only disclosed if necessary
+- Investigation details private
+- Conclusion may be public (some)
+- Personal information protected
+- Medical information protected
+- Business information protected
+
+PRIVACY ACT COMPLIANCE:
+- Information handled securely
+- Data protection standards
+- Secure storage
+- Minimal disclosure
+- Consent for sharing
+- Access to own information
+- Data retention periods
+
+[CUSTOMER SERVICE STANDARDS]
+Council commitment:
+- Respectful treatment
+- Clear communication
+- Timely responses
+- Professional service
+- Accessibility
+- Inclusive approach
+- Complaint resolution
+- Continuous improvement
+
+STANDARD EXPECTATIONS:
+- Staff are polite and professional
+- Information is accurate
+- Processes are clear
+- Decisions explained
+- Accessibility provided
+- Privacy respected
+- Feedback welcomed
+- Issues resolved fairly
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/complaints
+
+================================================================================
+SECTION 14: LOCAL LAWS & REGULATIONS
+================================================================================
+
+[LOCAL LAWS OVERVIEW]
+Council makes local laws:
+- Local Law 1: General
+- Local Law 2: Amenity
+- Local Law 3: Highways
+- Local Law 4: Animals
+- Enforcement by Council
+- Penalties for breach
+- Review and appeal processes
+
+[NUISANCE & AMENITY ISSUES]
+Local Law covers:
+- Excessive noise
+- Odorous emissions
+- Visual nuisance
+- Obstructive goods
+- Damage to property
+- Smoke emissions
+- Unlawful burning
+- Overgrown properties
+
+COMPLAINT PROCESS:
+1. Document the nuisance
+2. Contact Council: (03) 5153 9500
+3. Provide details
+4. Investigation conducted
+5. Notice issued if violation found
+6. Compliance period given
+7. Enforcement if needed
+8. Penalties possible
+
+[PARKING & VEHICLE REGULATIONS]
+Parking rules:
+- Time-limited parking (some areas)
+- No parking zones
+- Disabled parking spaces
+- Loading zones
+- Parking enforcement rangers
+- Infringement notices
+
+VIOLATIONS & PENALTIES:
+- Parking over time limit
+- Parking in prohibited area
+- Disabled space without permit
+- Obstructive parking
+- Infringement notice issued
+- Penalty: $75-150+ (typical)
+- Appeal process available
+- Payment plans available
+
+[ANIMAL CONTROL LOCAL LAW]
+Animal regulations:
+- Dog containment requirements
+- Dog control/leashing
+- Nuisance barking
+- Animal behavior standards
+- Roaming animal impoundment
+- Dangerous dogs management
+
+OFFENSES:
+- Failing to register pet
+- Dog off property without control
+- Dangerous dog breach
+- Animal in poor welfare condition
+- Failing to clean up animal waste
+
+[FIRE SAFETY REGULATIONS]
+Fire prevention:
+- Hazard reduction burning restrictions
+- Total Fire Ban compliance
+- Fire equipment maintenance
+- Fire escape availability
+- Sprinkler system (some buildings)
+- Building design standards
+
+VIOLATIONS:
+- Unauthorized fires on Total Fire Ban
+- Hazard reduction without permit
+- Fire safety non-compliance
+- Blocked fire exits
+- Penalty: Up to $57,000+ for Total Fire Ban
+- Other violations: $1,000-5,000+
+
+[WATER USAGE RESTRICTIONS]
+Water conservation:
+- Seasonal restrictions possible
+- Sprinkler/garden watering limits
+- Car washing rules
+- Pool filling restrictions
+- Drought response measures
+- Community responsibility
+
+RESTRICTIONS APPLY:
+- Specific watering days/times
+- Sprinkler use prohibited (often)
+- Hand watering allowed
+- Penalties: Infringement notices
+- Meter monitoring
+- Behavior change education
+
+[BUILDING & CONSTRUCTION STANDARDS]
+Standards compliance:
+- Building Code compliance
+- Heritage protection
+- Environmental standards
+- Safety standards
+- Accessibility standards
+- Parking requirements
+- Inspections required
+
+[PLANNING LAW ENFORCEMENT]
+Planning breaches:
+- Unauthorized development
+- Use change without permit
+- Non-compliance with conditions
+- Demolition without approval
+- Building without permit
+- Tree removal without approval
+
+ENFORCEMENT ACTION:
+1. Compliance notice issued
+2. Compliance period (usually 30-60 days)
+3. If not complied: Warning notice
+4. Final notice before prosecution
+5. Court proceedings (last resort)
+6. Injunction possible (stop work)
+7. Restoration orders
+8. Penalties: Up to $60,000+ per breach
+
+[WASTE & LITTERING LAWS]
+Littering prohibited:
+- No littering on roads/public land
+- No dumping of waste
+- No illegal waste disposal
+- Litter control responsibility
+- Shopping center responsibility
+- Street cleaning responsibility
+
+PENALTIES:
+- Littering: $75-150
+- Illegal dumping: $200-500+
+- Commercial dumping: Higher penalty
+- Repeat offences: Enhanced penalties
+- Prosecution possible
+- Cleanup costs may be imposed
+
+[TREE PROTECTION LAWS]
+Protected vegetation:
+- Significant trees may be protected
+- Removal permit required
+- Heritage vegetation protection
+- Native vegetation regulations
+- Clearing controls
+- Replacement requirements
+
+VIOLATIONS:
+- Unauthorized removal: Fines
+- Unauthorized clearing: Enforcement
+- Heritage tree breach: Prosecution
+- Replanting orders
+- Restoration orders
+- Significant penalties possible
+
+[BY-LAW ENFORCEMENT]
+Compliance approach:
+- Education first (most cases)
+- Mediation offered
+- Compliance notice issued
+- Monitoring of compliance
+- Prosecution if persistent breach
+- Community standards protection
+
+ENFORCEMENT OFFICERS:
+- Council authorizes officers
+- Powers: Inspection, entry, evidence
+- Notice of entry required (usually)
+- Reasonable force (if necessary)
+- Duty of care
+- Confidentiality respected
+
+[APPEALS & OBJECTIONS]
+Challenging enforcement:
+- Objection to notice
+- Written objection required
+- Timeframe: Usually 10-30 days
+- Council reviews decision
+- Decision upheld or overturned
+- Further appeal available (some)
+- VCAT appeal option (serious matters)
+
+[PENALTIES & ENFORCEMENT]
+Infringement notices:
+- Issued for breaches
+- Penalty amount specified
+- Payment deadline (usually 30 days)
+- Can pay or dispute
+- Non-payment: Further action
+
+PROSECUTION:
+- Court proceedings (serious cases)
+- Guilt established (beyond reasonable doubt)
+- Sentencing by judge
+- Fines imposed
+- Enforcement orders
+- Community service (some)
+- Publicity risk
+
+[DISPUTE RESOLUTION]
+Before formal enforcement:
+- Negotiation and discussion
+- Mediation offered (some cases)
+- Compromise solutions explored
+- Written agreement possible
+- Ongoing monitoring
+- Professional approach maintained
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/local-laws
+
+================================================================================
+SECTION 15: NEIGHBOURING COUNCILS & REGIONAL COOPERATION
+================================================================================
+
+[NEIGHBOURING COUNCILS OVERVIEW]
+Adjacent local governments:
+
+Baw Baw Shire:
+- Location: West of East Gippsland
+- Main towns: Warragul, Drouin
+- Population: ~40,000
+- Contact: (03) 5624 2411
+- Website: www.bawbawshire.vic.gov.au
+- Services: Similar council services
+- Regional cooperation: Joint projects
+
+Wellington Shire:
+- Location: Southwest of East Gippsland
+- Main towns: Sale, Heyfield
+- Population: ~33,000
+- Contact: (03) 5143 8500
+- Website: www.wellington.vic.gov.au
+- Services: Waste management, planning
+- Regional cooperation: Emergency management
+
+Latrobe City Council:
+- Location: West of East Gippsland
+- Main towns: Traralgon, Moe, Morwell
+- Population: ~72,000
+- Contact: (03) 5122 8600
+- Website: www.latrobe.vic.gov.au
+- Services: Full council services
+- Regional cooperation: Regional planning
+
+[REGIONAL COOPERATION INITIATIVES]
+Joint programs:
+- Emergency management coordination
+- Regional planning
+- Procurement cooperation
+- Sustainability programs
+- Waste management
+- Road network coordination
+- Tourism promotion
+- Business support
+
+[GIPPSLAND REGION OVERVIEW]
+Geographic context:
+- Gippsland encompasses 9,000+ square kilometers
+- Multiple councils cooperate
+- Population: ~250,000
+- Diverse economy (agriculture, tourism, forestry)
+- Environmental significance
+- Regional identity strong
+- Major towns: Traralgon, Sale, Bairnsdale
+
+REGIONAL CHARACTERISTICS:
+- Agricultural productivity
+- Dairy farming significant
+- Tourism attractions
+- Natural beauty
+- Environmental values
+- Community spirit
+- Regional pride
+
+[GIPPSLAND REGIONAL PARTNERSHIP]
+Cooperation framework:
+- Gippsland Cities Network
+- Regional mayors council
+- Joint committees
+- Information sharing
+- Strategic planning
+- Resource coordination
+- Regional projects
+
+FOCUS AREAS:
+- Economic development
+- Skills and employment
+- Infrastructure
+- Emergency management
+- Environmental sustainability
+- Population attraction/retention
+- Tourism promotion
+- Community wellbeing
+
+[REGIONAL EMERGENCY MANAGEMENT]
+Coordination:
+- Bushfire response (multi-council)
+- Flood response coordination
+- Pandemic response coordination
+- State Emergency Service role
+- CFA coordination
+- Victoria Police coordination
+- Community education (joint)
+
+[TOURISM COORDINATION]
+Regional tourism:
+- Gippsland Tourism network
+- Joint marketing
+- Event promotion
+- Information sharing
+- Visitor distribution
+- Industry support
+- Skills development
+
+TOURISM ORGANIZATIONS:
+- Gippsland Tourism Board
+- Local visitor information centers
+- Business and tourism associations
+- Community organizations
+
+[WASTE MANAGEMENT COORDINATION]
+Regional waste:
+- Transfer station network
+- Recycling coordination
+- Waste reduction education
+- Landfill management
+- Hazardous waste coordination
+- Regional markets for recycled materials
+
+[ROADS & TRANSPORT COORDINATION]
+Regional transport:
+- VicRoads coordination (state roads)
+- Local road network coordination
+- Public transport (limited regional)
+- Emergency access routes
+- Network planning
+- Maintenance coordination
+
+[HOUSING & PLANNING COORDINATION]
+Regional planning:
+- Growth and settlement planning
+- Land availability
+- Housing supply
+- Infrastructure planning
+- Environmental protection
+- Economic development
+
+[HEALTH & COMMUNITY SERVICES]
+Regional services:
+- Gippsland Healthcare Network
+- Public health coordination
+- Hospital services (regional hubs)
+- Mental health services
+- Community support
+- Aged care planning
+
+HEALTH FACILITIES:
+- Bairnsdale Regional Hospital
+- Sale Hospital
+- Traralgon Hospital
+- Smaller regional hospitals
+- Community health centers
+- Private health services
+
+[EDUCATION & TRAINING]
+Regional education:
+- Primary and secondary schools
+- Technical education (TAFE)
+- Higher education (limited)
+- Vocational training
+- Community learning
+- Skills development
+
+[BUSINESS & ECONOMIC DEVELOPMENT]
+Regional economy:
+- Primary industries support
+- Manufacturing base
+- Tourism businesses
+- Small business support
+- Industry development
+- Employment creation
+- Skills development
+- Business networks
+
+[ENVIRONMENTAL COORDINATION]
+Regional environment:
+- Catchment management (CMA)
+- Native vegetation protection
+- Waterway health
+- Sustainability initiatives
+- Climate change response
+- Biodiversity protection
+- Soil conservation
+
+[COMMUNITY ORGANIZATIONS]
+Networks and partnerships:
+- Community service networks
+- Volunteer organizations
+- Sporting clubs
+- Cultural organizations
+- Environmental groups
+- Business associations
+- Community halls
+- Service clubs
+
+[CROSS-COUNCIL SERVICES]
+Shared services arrangement:
+- Information technology
+- Finance and administration
+- Procurement (joint)
+- Professional development
+- Best practice sharing
+- Resource efficiency
+- Cost savings
+
+[CONTACTING NEIGHBORING COUNCILS]
+For regional matters:
+- Specific council contact
+- Phone: Individual council numbers
+- Email: Via respective websites
+- In person: Council offices
+- Regional coordinators
+- Shared customer service (some)
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/regional-cooperation
+
+================================================================================
+SECTION 16: COMPREHENSIVE FAQ - FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: What are Council's opening hours?
+A: Main office: Monday-Friday, 8:30am-5:00pm. Closed weekends and public holidays. Phone: (03) 5153 9500. Emergency line available after hours.
+
+Q2: How do I pay my rates?
+A: Online portal, Bpay, credit card, direct debit, mail (cheque), or in person at Council office. Multiple payment options available for convenience.
+
+Q3: What if I can't afford my rates?
+A: Contact Council immediately on (03) 5153 9500. Payment plans, concessions, and hardship assistance available. Don't ignore the issue.
+
+Q4: How do I register my dog or cat?
+A: Complete registration form with microchip number. Required annually. Desexed rates lower than entire. Concessions available. Contact (03) 5153 9500.
+
+Q5: What can I recycle in my bin?
+A: Paper, cardboard, plastic (1-7), glass, metal, cans. NO bags, food, styrofoam, ceramics, light bulbs. Contamination causes collection issues.
+
+Q6: How do I report a pothole?
+A: Phone (03) 5153 9500 or use online form. Provide location and size. Priority based on safety risk. Usually 2-4 weeks for repair.
+
+Q7: Do I need planning permission for my renovation?
+A: Many renovations DO require permits. Contact Council planning: (03) 5153 9500. Pre-application advice available free. Better to ask than build illegally.
+
+Q8: What's included in my rates bill?
+A: General rate (property value based), municipal charge (fixed per property), and any supplementary charges. Includes Council services and infrastructure.
+
+Q9: How do I apply for a planning permit?
+A: Complete application with plans, submit to Council, pay fee, wait for assessment (8-10 weeks), receive decision. Council guides you through process.
+
+Q10: What's the bushfire season in East Gippsland?
+A: Peak: December-February. Extended risk: November-April. Year-round risk possible. Check fire danger daily. Have evacuation plan ready.
+
+Q11: Can I burn garden waste in my yard?
+A: Generally NO. Total Fire Ban prohibits. Year-round restrictions apply in most areas. Green waste bins collected fortnightly alternative.
+
+Q12: How do I make a formal complaint to Council?
+A: Contact Council with details. Use complaint form if needed. Acknowledgment within 2 days, investigation 7-15 days, response within timeframe. Appeals available.
+
+Q13: Where are the library branches located?
+A: Bairnsdale: 60 Nicholson Street (main). Lakes Entrance: Marine Parade. Orbost: Irving Street. Mobile library visits remote areas. Free membership for residents.
+
+Q14: What are the swimming beach conditions?
+A: Check daily conditions at beaches. Lifeguards at some (summer). Rips exist - swim between flags. Jellyfish possible (summer). Respect marine life.
+
+Q15: How do I report animal welfare concerns?
+A: Contact Council (03) 5153 9500 or RSPCA Victoria 1300 854 627. Describe concern, location, animal. Investigation conducted confidentially.
+
+Q16: Can I have a septic tank on my property?
+A: Possibly. Requires Council permit. Site assessment needed. Not suitable all areas. Alternative: Mains sewer or treatment system. Contact Council planning.
+
+Q17: What's the penalty for littering?
+A: Infringement: $75-150. Illegal dumping: $200-500+. Prosecution possible for serious cases. Clean community benefits everyone.
+
+Q18: How do I appeal a rates assessment?
+A: Contact VRB (Valuation Review Board) not Council - they set valuations. Usually within 60 days of notice. Council can provide information.
+
+Q19: What support is available during bushfires?
+A: Evacuation centers, emergency relief, financial assistance, counseling, community support. Welfare checks for vulnerable. Contact Council during emergency.
+
+Q20: How do I find out if my property has planning restrictions?
+A: Check property details on Council website or request planning report. May include heritage status, zoning, overlays. Contact Council planning: (03) 5153 9500.
+
+Q21: What do I do if my bin wasn't collected?
+A: Check location and weight. Verify collection day. If missed, report within 48 hours: (03) 5153 9500. Council re-collects at no charge.
+
+Q22: Are there concessions for Council services?
+A: Yes. Pensioners, Veterans, Disability pensioners, Health Care Card holders may qualify. 30-50% reduction possible. Apply with evidence. Annual renewal needed.
+
+Q23: How does the Community Fireguard program work?
+A: Group-based bushfire preparation. Training, planning, community support. Helps neighborhoods prepare together. Contact CFA for participation in your area.
+
+Q24: What wildlife is dangerous in East Gippsland?
+A: Eastern brown snakes (avoid), crocodiles (none here), sharks (rare - avoid dawn/dusk). Most wildlife harmless if respected. Report aggressive animals to Council.
+
+Q25: How do I sign up for library membership?
+A: Visit library in person. Proof of name and address required. Instant membership. Free for residents. Card valid 3 years. Children need parent signature.
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/faq
+
+================================================================================
+SECTION 17: COMPREHENSIVE URL DIRECTORY
+================================================================================
+
+OFFICIAL COUNCIL WEBSITE & MAIN SERVICES:
+Website: www.eastgippsland.vic.gov.au
+Online Portal: www.eastgippsland.vic.gov.au/portal
+Contact Form: www.eastgippsland.vic.gov.au/contact
+Emergency Info: www.eastgippsland.vic.gov.au/emergency
+
+RATES & PROPERTY SERVICES:
+Rates Information: www.eastgippsland.vic.gov.au/rates-and-valuations
+Rates Payments: www.eastgippsland.vic.gov.au/pay-rates
+Concessions: www.eastgippsland.vic.gov.au/concessions
+Property Reports: www.eastgippsland.vic.gov.au/property-information
+
+PLANNING & BUILDING:
+Planning Applications: www.eastgippsland.vic.gov.au/planning
+Building Permits: www.eastgippsland.vic.gov.au/building
+Planning Compliance: www.eastgippsland.vic.gov.au/planning-enforcement
+Planning Database: www.eastgippsland.vic.gov.au/planning-search
+
+WASTE & RECYCLING:
+Waste Services: www.eastgippsland.vic.gov.au/waste-and-recycling
+Bin Collection: www.eastgippsland.vic.gov.au/bin-collection
+Recycling Info: www.eastgippsland.vic.gov.au/recycling
+Transfer Stations: www.eastgippsland.vic.gov.au/transfer-stations
+
+ANIMAL MANAGEMENT:
+Pet Registration: www.eastgippsland.vic.gov.au/pet-registration
+Animal Management: www.eastgippsland.vic.gov.au/animal-management
+Dangerous Dogs: www.eastgippsland.vic.gov.au/dangerous-dogs
+Lost Pets: www.eastgippsland.vic.gov.au/lost-found-pets
+
+LIBRARIES & COMMUNITY:
+Libraries: www.eastgippsland.vic.gov.au/libraries
+Library Catalog: www.eastgippsland.vic.gov.au/library-search
+Community Facilities: www.eastgippsland.vic.gov.au/community-facilities
+Programs & Events: www.eastgippsland.vic.gov.au/events
+
+EMERGENCY & BUSHFIRE:
+Emergency Services: www.eastgippsland.vic.gov.au/emergency-services
+Bushfire Preparation: www.eastgippsland.vic.gov.au/bushfire-preparation
+Fire Danger: www.cfa.vic.gov.au (CFA website for daily ratings)
+VicEmergency: www.emergency.vic.gov.au (State emergency website)
+
+TOURISM & RECREATION:
+Tourism: www.eastgippsland.vic.gov.au/tourism-and-recreation
+Gippsland Lakes: www.eastgippsland.vic.gov.au/gippsland-lakes
+Attractions: www.eastgippsland.vic.gov.au/attractions
+Parks & Reserves: www.eastgippsland.vic.gov.au/parks-and-reserves
+
+ROADS & TRANSPORT:
+Roads & Drainage: www.eastgippsland.vic.gov.au/roads-and-drainage
+Report Issues: www.eastgippsland.vic.gov.au/report-road-issue
+Street Maintenance: www.eastgippsland.vic.gov.au/street-maintenance
+Parking: www.eastgippsland.vic.gov.au/parking
+
+HEALTH & SAFETY:
+Environmental Health: www.eastgippsland.vic.gov.au/health-and-safety
+Food Safety: www.eastgippsland.vic.gov.au/food-safety
+Health Permits: www.eastgippsland.vic.gov.au/health-permits
+Disease Reporting: www.eastgippsland.vic.gov.au/disease-reporting
+
+COMPLAINTS & FEEDBACK:
+Complaints: www.eastgippsland.vic.gov.au/complaints
+Feedback: www.eastgippsland.vic.gov.au/feedback
+Ombudsman: www.ombudsman.vic.gov.au
+VCAT: www.vcat.vic.gov.au
+
+LOCAL LAWS & REGULATIONS:
+Local Laws: www.eastgippsland.vic.gov.au/local-laws
+Penalties: www.eastgippsland.vic.gov.au/penalties
+Parking Regulations: www.eastgippsland.vic.gov.au/parking-rules
+Tree Protection: www.eastgippsland.vic.gov.au/tree-protection
+
+EXTERNAL USEFUL LINKS:
+VicRoads (State Roads): www.vicroads.vic.gov.au
+CFA (Bushfire): www.cfa.vic.gov.au
+Victoria Police: www.police.vic.gov.au
+SES (Emergencies): www.ses.vic.gov.au
+VRFish (Fishing): www.vfish.vic.gov.au
+Department Jobs: www.dffh.vic.gov.au
+VCAT Appeals: www.vcat.vic.gov.au
+
+COMMUNITY SERVICES & SUPPORT:
+Lifeline (24/7): www.lifeline.org.au - 13 11 14
+Beyond Blue (Mental Health): www.beyondblue.org.au - 1300 224 636
+Salvation Army: www.salvationarmy.org.au - 1300 363 622
+Red Cross: www.redcross.org.au
+RSPCA Victoria: www.rspcavic.org.au
+
+SOURCE_URL: www.eastgippsland.vic.gov.au
+
+================================================================================
+SECTION 18: PROPERTY OWNERSHIP & LAND INFORMATION
+================================================================================
+
+[PROPERTY INFORMATION SERVICES]
+Obtaining property information:
+- Land titles (from Land Titles Office)
+- Property valuations (VRB)
+- Planning restrictions (Council)
+- Zoning information (Council)
+- Rates information (Council)
+- Building/heritage info (Council)
+- Environmental overlays (Council)
+
+HOW TO ACCESS:
+- Online Council portal
+- Council counter inquiry
+- Phone: (03) 5153 9500
+- Land Titles Office: Direct
+- Property search services: Available
+- Real estate: May provide (transaction)
+
+[PROPERTY BOUNDARIES & SURVEYS]
+Determining boundaries:
+- Current title deed shows boundaries
+- Survey plan required (professional)
+- Surveyor registered with Professional Surveyors board
+- Boundary pegs/marks (may exist)
+- Neighbor agreement desirable
+- Council may have information
+- Cost: $500-2000+ depending on size
+
+SURVEY PROCESS:
+1. Employ registered surveyor
+2. Property inspection
+3. Boundary identification
+4. Calculations and measurements
+5. Survey plan produced
+6. Lodged with Land Titles Office
+7. Certificate of title issued
+8. Property records updated
+
+[LAND TITLES & PROPERTY OWNERSHIP]
+Certificate of Title:
+- Official ownership document
+- Issued by Land Titles Office
+- Purchased in transaction
+- Can request copy (small cost)
+- Shows owner(s), mortgages, restrictions
+- Essential for all transactions
+- Updated when property changes hands
+
+[ENCUMBRANCES & RESTRICTIONS]
+Possible restrictions on title:
+- Mortgages (lender interest)
+- Caveat (legal claim)
+- Easement (neighbor access rights)
+- Covenant (use restrictions)
+- Heritage protection
+- Environmental restrictions
+- Sharing arrangements
+
+IMPACT ON PROPERTY:
+- Affect use possibilities
+- May require consent for changes
+- Affect sale/mortgageability
+- Disclosed at sale
+- Can affect value
+- May be removable
+- Check before purchasing
+
+[HERITAGE PROTECTION]
+Heritage listings:
+- Victorian Heritage Register
+- Local Heritage List
+- State significance or local
+- Restrictions on alterations
+- Demolition may be prohibited
+- Restoration incentives possible
+- Conservation mandatory
+
+PROPERTY REQUIREMENTS:
+- Alteration permits needed
+- Heritage assessment required
+- Professional advice recommended
+- Specialist knowledge needed
+- Grants may be available
+- Tax incentives (some)
+- Community input (major changes)
+
+[ENVIRONMENTAL OVERLAYS & PROTECTION]
+Environmental considerations:
+- Floodprone areas
+- Bushfire risk zones
+- Coastal hazard areas
+- Vegetation protection
+- Wetland protection
+- Native vegetation regulations
+- Ecological value
+
+IMPACT & RESTRICTIONS:
+- Building limitations
+- Clearing restrictions
+- Floodproofing required
+- Bushfire protection needed
+- Vegetation clearing permits
+- Environmental assessment
+- Ongoing management requirements
+
+[LAND USE ZONES]
+Zoning determines allowable use:
+- Residential
+- Commercial
+- Industrial
+- Rural
+- Conservation
+- Public use
+- Mixed use
+
+PERMITTED USES:
+- Specified in planning scheme
+- Secondary uses possible (permit)
+- Prohibited uses (legal issues)
+- Home business (may be allowed)
+- Neighborhood character
+- Overlapping overlays
+- Change of use (permit needed)
+
+[PROPERTY COVENANTS]
+Covenant types:
+- Positive: Must do something
+- Restrictive: Cannot do something
+- Common: Building style, use, maintenance
+- Can restrict development
+- May be enforceable
+- Removal possible (legal process)
+- Can affect value
+
+[EASEMENTS & SHARED RIGHTS]
+Types of easements:
+- Right of way
+- Utility access (power, water, sewer)
+- Drainage easement
+- Shared access
+- Heritage access
+- Public access
+- Private agreement
+
+PROPERTY IMPACT:
+- Limits your use of land
+- Neighbor access rights
+- Cannot block easement
+- Utility maintenance necessary
+- Affects buildable area
+- May affect value
+- Usually disclosed at sale
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/property-information
+
+================================================================================
+SECTION 19: BUSINESS & ECONOMIC DEVELOPMENT
+================================================================================
+
+[BUSINESS SUPPORT SERVICES]
+Council support available:
+- Permit and licensing information
+- Planning advice for businesses
+- Community economic data
+- Industry information
+- Grant and funding referrals
+- Networking opportunities
+- Business mentoring referrals
+- Market research support
+
+CONTACTING BUSINESS SERVICES:
+- Phone: (03) 5153 9500
+- Email: Via website
+- In person: Council office
+- Website: www.eastgippsland.vic.gov.au
+- Business information: Online resources
+- Networking events: Periodic
+
+[BUSINESS LICENSES & PERMITS]
+Required for most businesses:
+- Food business registration
+- Liquor license (if applicable)
+- Taxi/transport license
+- Hairdresser/beauty license
+- Tattoo/body art license
+- Catering license
+- Market permit (if applicable)
+- Gaming/gambling machines
+
+APPLICATION PROCESS:
+1. Identify permits needed
+2. Complete application forms
+3. Provide business details
+4. Pay application fee
+5. Council assessment
+6. Possible site inspection
+7. Conditions determined
+8. License issued or refused
+9. Annual renewal (most)
+
+[SMALL BUSINESS GRANTS & FUNDING]
+Available support:
+- Small business grants (periodic)
+- Tourism industry grants
+- Manufacturing support
+- Research and development
+- Training and skills
+- Equipment purchase assistance
+- Startup support (sometimes)
+- Hardship assistance (disaster-affected)
+
+APPLICATION TIPS:
+- Check eligibility criteria
+- Prepare business plan
+- Show evidence of viability
+- Include financial projections
+- Community benefit demonstrated
+- Timely submission
+- Professional presentation
+- Supporting documentation complete
+
+[ECONOMIC DEVELOPMENT ZONES]
+Strategic areas:
+- Bairnsdale CBD (town center)
+- Lakes Entrance tourism zone
+- Industrial areas
+- Rural business areas
+- Emerging business precincts
+
+INCENTIVES PROVIDED:
+- Faster permit processing
+- Rate incentives (some)
+- Infrastructure investment
+- Promotional support
+- Networking facilitation
+- Development priority
+
+[TOURISM BUSINESS SUPPORT]
+Special assistance:
+- Tourism operator networking
+- Visitor information referral
+- Quality assurance programs
+- Marketing support
+- Training and development
+- Industry mentoring
+- Booking system assistance
+
+[AGRICULTURAL SUPPORT]
+Rural business assistance:
+- Agricultural information
+- Land management advice
+- Sustainable farming support
+- Drainage/water solutions
+- Environmental compliance
+- Grants and programs
+- Industry partnerships
+
+[MANUFACTURING & INDUSTRY]
+Industrial support:
+- Industrial site information
+- Equipment and facility information
+- Labor force data
+- Regulatory compliance support
+- Training programs
+- Industry networks
+- Supply chain connections
+
+SOURCE_URL: www.eastgippsland.vic.gov.au/business-development
+
+================================================================================
+END OF KNOWLEDGE BASE
+This knowledge base contains comprehensive information about East Gippsland Shire Council services, processes, and community information.
+
+Last Updated: __CURRENT_DATE__
+Knowledge Base Version: CouncilGenius V8 - EXPANDED
+Prompt Version: __PROMPT_VERSION__
+
+For the most current information, visit www.eastgippsland.vic.gov.au or contact the Council on (03) 5153 9500.
+
+EXPANSIONS COMPLETED:
+- FAQ Section: 25+ comprehensive Q&A pairs addressing common questions
+- URL Directory: Extensive list of official and external resources
+- Emergency & Bushfire: Detailed expanded section on comprehensive emergency management
+- Tourism: Comprehensive section covering attractions (Gippsland Lakes, Buchan Caves, Croajingolong NP)
+- Waste & Rates: Enhanced detail on disposal procedures, financial support, hardship assistance
+- Neighbouring Councils: New section covering Baw Baw, Wellington, Latrobe, and regional cooperation
+- Property Services: New comprehensive section on land ownership, titles, and transactions
+- Business Development: New section on economic support and business services
+- Complaints & Feedback: Comprehensive expansion on resolution processes
+- All sections enhanced with additional detail, procedures, and contact information
+
+SOURCE_URL: East Gippsland Shire Council - CouncilGenius V8 Knowledge Base - EXPANDED
+================================================================================
